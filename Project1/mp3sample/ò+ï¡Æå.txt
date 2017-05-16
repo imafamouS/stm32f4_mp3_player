@@ -1,0 +1,124 @@
+
+void WavePlayerStart(void)
+
+  if (f_opendir(&dir, path)!= FR_OK)
+	
+    if (f_open(&fileR, WaveFileName , FA_READ) != FR_OK)
+
+      f_read (&fileR, buffer1, _MAX_SS, &BytesRead);
+
+      WavePlayBack(WAVE_Format.SampleRate);
+--------
+
+void WavePlayBack(uint32_t AudioFreq)
+ Normal mode description:
+  Start playing the audio file (using DMA stream) .
+  Using this mode, the application can run other tasks in parallel since 
+  the DMA is handling the Audio Transfer instead of the CPU.
+  The only task remaining for the CPU will be the management of the DMA 
+  Transfer Complete interrupt or the Half Transfer Complete interrupt in 
+  order to load again the buffer and to calculate the remaining data.  
+
+  Circular mode description:
+  Start playing the file from a circular buffer, once the DMA is enabled it 
+  always run. User has to fill periodically the buffer with the audio data 
+  using Transfer complete and/or half transfer complete interrupts callbacks 
+  (EVAL_AUDIO_TransferComplete_CallBack() or EVAL_AUDIO_HalfTransfer_CallBack()...
+  In this case the audio data file is smaller than the DMA max buffer 
+  size 65535 so there is no need to load buffer continuously or manage the 
+  transfer complete or Half transfer interrupts callbacks.
+    
+
+正規モード記述:
+オーディオ・ファイル(DMA流れを使用して)をし始めてください。
+このモードを使用すると、DMAがCPUの代わりにオーディオ・トランスファーを扱っているので、
+そのアプリケーションは、平行中の他のタスクを実行することができます。
+CPUのために残るただ一つのタスクは、完全な割り込みあるいは半分が転送するDMA転送の管理
+になるでしょう、完全な割り込み、再びバッファーをロードするために、また残りのデータを計算すること
+
+循環的なモード記述:
+一旦DMAが可能になれば、円形のバッファーからのファイルをし始める、それ、常に走ります。
+ユーザは、トランスファーを使用して、バッファーをオーディオ・データで周期的に満たさな
+ければなりません、完成する、または、半分は完全な割り込みコールバック(EVAL_AUDIO_TransferComplete_CallBack()
+あるいはEVAL_AUDIO_HalfTransfer_CallBack()...この場合、
+オーディオ・データ・ファイルはDMA最大バッファ・サイズ65535より小さい、したがって、そこに、
+バッファーを連続的にロードする必要でない、あるいはトランスファーを管理する、完成する、
+あるいは半分は移る、コールバックを中断する)を転送します。
+
+
+
+  WavePlayerInit(AudioFreq);
+
+  Audio_MAL_Play((uint32_t)buffer1, _MAX_SS);
+
+  while((WaveDataLength != 0) &&  HCD_IsDeviceConnected(&USB_OTG_Core))
+  { 
+    /* Test on the command: Playing */
+    if (Command_index == 0)
+    { 
+      /* wait for DMA transfert complete */
+      while((XferCplt == 0) &&  HCD_IsDeviceConnected(&USB_OTG_Core))
+      {
+        if (PauseResumeStatus == 0)
+        {
+          /* Pause Playing wave */
+          LED_Toggle = 0;
+          WavePlayerPauseResume(PauseResumeStatus);
+          PauseResumeStatus = 2;
+        }
+        else if (PauseResumeStatus == 1)
+        {
+          LED_Toggle = 6;
+          /* Resume Playing wave */
+          WavePlayerPauseResume(PauseResumeStatus);
+          PauseResumeStatus = 2;
+        }  
+      }
+      XferCplt = 0;
+
+      if(buffer_switch == 0)
+      {
+        /* Play data from buffer1 */
+        Audio_MAL_Play((uint32_t)buffer1, _MAX_SS);
+        /* Store data in buffer2 */
+        f_read (&fileR, buffer2, _MAX_SS, &BytesRead);
+        buffer_switch = 1;
+      }
+      else 
+      {   
+        /* Play data from buffer2 */
+        Audio_MAL_Play((uint32_t)buffer2, _MAX_SS);
+        /* Store data in buffer1 */
+        f_read (&fileR, buffer1, _MAX_SS, &BytesRead);
+        buffer_switch = 0;
+      } 
+    }
+    else 
+    {
+      WavePlayerStop();
+      WaveDataLength = 0;
+      RepeatState =0;
+      break;
+    }
+  }
+
+-----------
+int WavePlayerInit(uint32_t AudioFreq)
+{ 
+  
+  /* MEMS Accelerometre configure to manage PAUSE, RESUME and Controle Volume operation */
+  Mems_Config();
+  
+  /* EXTI configue to detect interrupts on Z axis click and on Y axis high event */
+  EXTILine_Config();  
+    
+  /* Initialize I2S interface */  
+  EVAL_AUDIO_SetAudioInterface(AUDIO_INTERFACE_I2S);
+  
+  /* Initialize the Audio codec and all related peripherals (I2S, I2C, IOExpander, IOs...) */  
+  EVAL_AUDIO_Init(OUTPUT_DEVICE_AUTO, volume, AudioFreq );  
+  
+  return 0;
+}
+
+

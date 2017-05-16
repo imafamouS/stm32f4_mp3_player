@@ -1,0 +1,2366 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+                              ..\obj\startup_stm32f4xx.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+                              ..\obj\main.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+                              ..\obj\mp3dec.o (memmove)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+                              ..\obj\huffman.o (memset)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                              ..\obj\main.o (sprintf)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+                              ..\obj\main.o (strcmp)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+                              ..\obj\main.o (strncmp)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+                              ..\obj\main.o (strrchr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o) (_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (_Balloc)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o) (strchr)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (strlen)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o) (_calloc_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o) (__global_locale)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o) (__ascii_wctomb)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o) (_ctype_)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (__aeabi_dsub)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (__aeabi_dmul)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_unorddf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+HSEStartUpStatus    0x1               ..\obj\usb_bsp.o
+fileR               0x424             ..\obj\usbh_usr.o
+USBH_MSC_CSWData    0x10              ..\obj\usbh_msc_bot.o
+__errno             0x4               ..\obj\syscalls.o
+MSC_Machine         0x4a              ..\obj\usbh_msc_core.o
+fno                 0x20              ..\obj\usbh_usr.o
+USBH_DataInBuffer   0x200             ..\obj\usbh_msc_scsi.o
+USBH_MSC_Param      0x10              ..\obj\usbh_msc_scsi.o
+USBH_MSC_BOTXferParam
+                    0x10              ..\obj\usbh_msc_bot.o
+time_var1           0x4               ..\obj\main.o
+file                0x424             ..\obj\main.o
+hMP3Decoder         0x4               ..\obj\main.o
+time_var2           0x4               ..\obj\main.o
+USB_OTG_Core        0x990             ..\obj\main.o
+USBH_DataOutBuffer  0x200             ..\obj\usbh_msc_scsi.o
+dir                 0x24              ..\obj\usbh_usr.o
+MSC_Setup           0x8               ..\obj\usbh_msc_core.o
+USBH_MSC_CBWData    0x20              ..\obj\usbh_msc_bot.o
+file_read_buffer    0x2000            ..\obj\main.o
+RCC_Clocks          0x10              ..\obj\main.o
+USB_Host            0x84              ..\obj\main.o
+bytes_left          0x4               ..\obj\main.o
+read_ptr            0x4               ..\obj\main.o
+mp3FrameInfo        0x1c              ..\obj\main.o
+fatfs               0x430             ..\obj\usbh_usr.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\hufftabs.o
+ .data          0x00000000        0x0 ..\obj\hufftabs.o
+ .bss           0x00000000        0x0 ..\obj\hufftabs.o
+ .data          0x00000000        0x0 ..\obj\dqchan.o
+ .bss           0x00000000        0x0 ..\obj\dqchan.o
+ .data          0x00000000        0x0 ..\obj\usb_core.o
+ .bss           0x00000000        0x0 ..\obj\usb_core.o
+ .data          0x00000000        0x0 ..\obj\usbh_hcs.o
+ .bss           0x00000000        0x0 ..\obj\usbh_hcs.o
+ .data          0x00000000        0x0 ..\obj\Audio.o
+ .text          0x00000000      0x1e8 ..\obj\stm32f4xx_hash_sha1.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_hash_sha1.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_hash_sha1.o
+ .debug_info    0x00000000      0x6cd ..\obj\stm32f4xx_hash_sha1.o
+ .debug_abbrev  0x00000000      0x1c1 ..\obj\stm32f4xx_hash_sha1.o
+ .debug_loc     0x00000000      0x57e ..\obj\stm32f4xx_hash_sha1.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_hash_sha1.o
+ .debug_line    0x00000000      0x3f4 ..\obj\stm32f4xx_hash_sha1.o
+ .debug_str     0x00000000      0x3c1 ..\obj\stm32f4xx_hash_sha1.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_hash_sha1.o
+ .debug_frame   0x00000000       0x64 ..\obj\stm32f4xx_hash_sha1.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_hash_sha1.o
+ .text          0x00000000      0x19c ..\obj\stm32f4xx_cryp_des.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_cryp_des.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_cryp_des.o
+ .debug_info    0x00000000      0x72b ..\obj\stm32f4xx_cryp_des.o
+ .debug_abbrev  0x00000000      0x1a2 ..\obj\stm32f4xx_cryp_des.o
+ .debug_loc     0x00000000      0x589 ..\obj\stm32f4xx_cryp_des.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_cryp_des.o
+ .debug_line    0x00000000      0x379 ..\obj\stm32f4xx_cryp_des.o
+ .debug_str     0x00000000      0x4a4 ..\obj\stm32f4xx_cryp_des.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_cryp_des.o
+ .debug_frame   0x00000000       0x6c ..\obj\stm32f4xx_cryp_des.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_cryp_des.o
+ .bss           0x00000000        0x0 ..\obj\usbh_msc_fatfs.o
+ .data          0x00000000        0x0 ..\obj\polyphase.o
+ .bss           0x00000000        0x0 ..\obj\polyphase.o
+ .data          0x00000000        0x0 ..\obj\usb_hcd.o
+ .bss           0x00000000        0x0 ..\obj\usb_hcd.o
+ .text          0x00000000      0x1d0 ..\obj\stm32f4xx_cryp_tdes.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_cryp_tdes.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_info    0x00000000      0x88b ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_abbrev  0x00000000      0x1a2 ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_loc     0x00000000      0x691 ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_line    0x00000000      0x3da ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_str     0x00000000      0x4aa ..\obj\stm32f4xx_cryp_tdes.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_frame   0x00000000       0x6c ..\obj\stm32f4xx_cryp_tdes.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_cryp_tdes.o
+ .text          0x00000000        0x0 ..\obj\trigtabs_fixpt.o
+ .data          0x00000000        0x0 ..\obj\trigtabs_fixpt.o
+ .bss           0x00000000        0x0 ..\obj\trigtabs_fixpt.o
+ .text          0x00000000      0x478 ..\obj\stm32f4xx_fsmc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_fsmc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_fsmc.o
+ .debug_info    0x00000000      0x90a ..\obj\stm32f4xx_fsmc.o
+ .debug_abbrev  0x00000000      0x190 ..\obj\stm32f4xx_fsmc.o
+ .debug_loc     0x00000000      0x48a ..\obj\stm32f4xx_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_fsmc.o
+ .debug_line    0x00000000      0x424 ..\obj\stm32f4xx_fsmc.o
+ .debug_str     0x00000000      0x7e2 ..\obj\stm32f4xx_fsmc.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_fsmc.o
+ .debug_frame   0x00000000      0x1b0 ..\obj\stm32f4xx_fsmc.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_fsmc.o
+ .text          0x00000000      0x570 ..\obj\usb_dcd_int.o
+ .data          0x00000000        0x0 ..\obj\usb_dcd_int.o
+ .bss           0x00000000        0x0 ..\obj\usb_dcd_int.o
+ .debug_info    0x00000000     0x24a3 ..\obj\usb_dcd_int.o
+ .debug_abbrev  0x00000000      0x304 ..\obj\usb_dcd_int.o
+ .debug_loc     0x00000000      0x86b ..\obj\usb_dcd_int.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\usb_dcd_int.o
+ .debug_ranges  0x00000000       0x90 ..\obj\usb_dcd_int.o
+ .debug_line    0x00000000      0x3d2 ..\obj\usb_dcd_int.o
+ .debug_str     0x00000000     0x159d ..\obj\usb_dcd_int.o
+ .comment       0x00000000       0x6f ..\obj\usb_dcd_int.o
+ .debug_frame   0x00000000       0x38 ..\obj\usb_dcd_int.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\usb_dcd_int.o
+ .text          0x00000000      0x1f8 ..\obj\stm32f4xx_dac.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_dac.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_dac.o
+ .debug_info    0x00000000      0x64e ..\obj\stm32f4xx_dac.o
+ .debug_abbrev  0x00000000      0x20f ..\obj\stm32f4xx_dac.o
+ .debug_loc     0x00000000      0x46f ..\obj\stm32f4xx_dac.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_dac.o
+ .debug_line    0x00000000      0x325 ..\obj\stm32f4xx_dac.o
+ .debug_str     0x00000000      0x495 ..\obj\stm32f4xx_dac.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_dac.o
+ .debug_frame   0x00000000      0x158 ..\obj\stm32f4xx_dac.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_dac.o
+ .text          0x00000000      0x378 ..\obj\stm32f4xx_dma.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_dma.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_dma.o
+ .debug_info    0x00000000      0x718 ..\obj\stm32f4xx_dma.o
+ .debug_abbrev  0x00000000      0x1b7 ..\obj\stm32f4xx_dma.o
+ .debug_loc     0x00000000      0x424 ..\obj\stm32f4xx_dma.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_dma.o
+ .debug_line    0x00000000      0x3c9 ..\obj\stm32f4xx_dma.o
+ .debug_str     0x00000000      0x58c ..\obj\stm32f4xx_dma.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_dma.o
+ .debug_frame   0x00000000      0x1b4 ..\obj\stm32f4xx_dma.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_dma.o
+ .text          0x00000000      0x26c ..\obj\stm32f4xx_cryp.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_cryp.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_cryp.o
+ .debug_info    0x00000000      0x763 ..\obj\stm32f4xx_cryp.o
+ .debug_abbrev  0x00000000      0x1d0 ..\obj\stm32f4xx_cryp.o
+ .debug_loc     0x00000000      0x24d ..\obj\stm32f4xx_cryp.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_cryp.o
+ .debug_line    0x00000000      0x375 ..\obj\stm32f4xx_cryp.o
+ .debug_str     0x00000000      0x62c ..\obj\stm32f4xx_cryp.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_cryp.o
+ .debug_frame   0x00000000      0x160 ..\obj\stm32f4xx_cryp.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_cryp.o
+ .text          0x00000000      0x1c4 ..\obj\stm32f4xx_hash.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_hash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_hash.o
+ .debug_info    0x00000000      0x5ad ..\obj\stm32f4xx_hash.o
+ .debug_abbrev  0x00000000      0x1fa ..\obj\stm32f4xx_hash.o
+ .debug_loc     0x00000000      0x224 ..\obj\stm32f4xx_hash.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_hash.o
+ .debug_line    0x00000000      0x31f ..\obj\stm32f4xx_hash.o
+ .debug_str     0x00000000      0x4a1 ..\obj\stm32f4xx_hash.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_hash.o
+ .debug_frame   0x00000000      0x144 ..\obj\stm32f4xx_hash.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_hash.o
+ .data          0x00000000        0x0 ..\obj\subband.o
+ .bss           0x00000000        0x0 ..\obj\subband.o
+ .data          0x00000000        0x0 ..\obj\usbh_ioreq.o
+ .bss           0x00000000        0x0 ..\obj\usbh_ioreq.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\usbh_msc_scsi.o
+ .data          0x00000000        0x0 ..\obj\usbh_stdreq.o
+ .bss           0x00000000        0x0 ..\obj\usbh_stdreq.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_usart.o
+ .data          0x00000000        0x0 ..\obj\usb_hcd_int.o
+ .bss           0x00000000        0x0 ..\obj\usb_hcd_int.o
+ .data          0x00000000        0x0 ..\obj\fattime.o
+ .bss           0x00000000        0x0 ..\obj\fattime.o
+ .text          0x00000000      0x188 ..\obj\stm32f4xx_dcmi.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_dcmi.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_dcmi.o
+ .debug_info    0x00000000      0x53d ..\obj\stm32f4xx_dcmi.o
+ .debug_abbrev  0x00000000      0x1d3 ..\obj\stm32f4xx_dcmi.o
+ .debug_loc     0x00000000      0x1fd ..\obj\stm32f4xx_dcmi.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_dcmi.o
+ .debug_line    0x00000000      0x30c ..\obj\stm32f4xx_dcmi.o
+ .debug_str     0x00000000      0x522 ..\obj\stm32f4xx_dcmi.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_dcmi.o
+ .debug_frame   0x00000000      0x120 ..\obj\stm32f4xx_dcmi.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_dcmi.o
+ .text          0x00000000       0x14 ..\obj\startup_stm32f4xx.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f4xx.o
+ .text          0x00000000       0xa4 ..\obj\stm32f4xx_rng.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_rng.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_rng.o
+ .debug_info    0x00000000      0x298 ..\obj\stm32f4xx_rng.o
+ .debug_abbrev  0x00000000      0x19d ..\obj\stm32f4xx_rng.o
+ .debug_loc     0x00000000       0xa2 ..\obj\stm32f4xx_rng.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_rng.o
+ .debug_line    0x00000000      0x2a2 ..\obj\stm32f4xx_rng.o
+ .debug_str     0x00000000      0x2cb ..\obj\stm32f4xx_rng.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_rng.o
+ .debug_frame   0x00000000       0x9c ..\obj\stm32f4xx_rng.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_rng.o
+ .data          0x00000000        0x0 ..\obj\huffman.o
+ .bss           0x00000000        0x0 ..\obj\huffman.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_exti.o
+ .data          0x00000000        0x0 ..\obj\imdct.o
+ .bss           0x00000000        0x0 ..\obj\imdct.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f4xx.o
+ .text          0x00000000      0x808 ..\obj\stm32f4xx_can.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_can.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_can.o
+ .debug_info    0x00000000      0xc75 ..\obj\stm32f4xx_can.o
+ .debug_abbrev  0x00000000      0x285 ..\obj\stm32f4xx_can.o
+ .debug_loc     0x00000000      0x8ba ..\obj\stm32f4xx_can.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_can.o
+ .debug_ranges  0x00000000       0x70 ..\obj\stm32f4xx_can.o
+ .debug_line    0x00000000      0x53d ..\obj\stm32f4xx_can.o
+ .debug_str     0x00000000      0x7ad ..\obj\stm32f4xx_can.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_can.o
+ .debug_frame   0x00000000      0x204 ..\obj\stm32f4xx_can.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_can.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_gpio.o
+ .bss           0x00000000        0x1 ..\obj\usbh_usr.o
+ .text          0x00000000      0x460 ..\obj\stm32f4xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_i2c.o
+ .debug_info    0x00000000      0xb6d ..\obj\stm32f4xx_i2c.o
+ .debug_abbrev  0x00000000      0x240 ..\obj\stm32f4xx_i2c.o
+ .debug_loc     0x00000000      0x674 ..\obj\stm32f4xx_i2c.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_i2c.o
+ .debug_line    0x00000000      0x3f5 ..\obj\stm32f4xx_i2c.o
+ .debug_str     0x00000000      0x6b0 ..\obj\stm32f4xx_i2c.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_i2c.o
+ .debug_frame   0x00000000      0x274 ..\obj\stm32f4xx_i2c.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\dct32.o
+ .bss           0x00000000        0x0 ..\obj\dct32.o
+ .text          0x00000000      0xed8 ..\obj\stm32f4xx_rtc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_rtc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_rtc.o
+ .debug_info    0x00000000     0x167d ..\obj\stm32f4xx_rtc.o
+ .debug_abbrev  0x00000000      0x269 ..\obj\stm32f4xx_rtc.o
+ .debug_loc     0x00000000     0x1604 ..\obj\stm32f4xx_rtc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_rtc.o
+ .debug_ranges  0x00000000      0x180 ..\obj\stm32f4xx_rtc.o
+ .debug_line    0x00000000      0x8d2 ..\obj\stm32f4xx_rtc.o
+ .debug_str     0x00000000      0xba0 ..\obj\stm32f4xx_rtc.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_rtc.o
+ .debug_frame   0x00000000      0x52c ..\obj\stm32f4xx_rtc.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_rtc.o
+ .data          0x00000000        0x0 ..\obj\bitstream.o
+ .bss           0x00000000        0x0 ..\obj\bitstream.o
+ .data          0x00000000        0x0 ..\obj\stproc.o
+ .bss           0x00000000        0x0 ..\obj\stproc.o
+ .text          0x00000000       0x70 ..\obj\stm32f4xx_dbgmcu.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_dbgmcu.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_dbgmcu.o
+ .debug_info    0x00000000      0x1e0 ..\obj\stm32f4xx_dbgmcu.o
+ .debug_abbrev  0x00000000       0xef ..\obj\stm32f4xx_dbgmcu.o
+ .debug_loc     0x00000000       0xae ..\obj\stm32f4xx_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_dbgmcu.o
+ .debug_line    0x00000000      0x22e ..\obj\stm32f4xx_dbgmcu.o
+ .debug_str     0x00000000      0x298 ..\obj\stm32f4xx_dbgmcu.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_dbgmcu.o
+ .debug_frame   0x00000000       0x60 ..\obj\stm32f4xx_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_dbgmcu.o
+ .text          0x00000000      0x3b0 ..\obj\stm32f4xx_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_adc.o
+ .debug_info    0x00000000      0xc5f ..\obj\stm32f4xx_adc.o
+ .debug_abbrev  0x00000000      0x21a ..\obj\stm32f4xx_adc.o
+ .debug_loc     0x00000000      0x970 ..\obj\stm32f4xx_adc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_adc.o
+ .debug_line    0x00000000      0x41c ..\obj\stm32f4xx_adc.o
+ .debug_str     0x00000000      0x854 ..\obj\stm32f4xx_adc.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_adc.o
+ .debug_frame   0x00000000      0x2e4 ..\obj\stm32f4xx_adc.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_adc.o
+ .text          0x00000000        0x0 ..\obj\mp3tabs.o
+ .data          0x00000000        0x0 ..\obj\mp3tabs.o
+ .bss           0x00000000        0x0 ..\obj\mp3tabs.o
+ .text          0x00000000       0x58 ..\obj\stm32f4xx_iwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_iwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_iwdg.o
+ .debug_info    0x00000000      0x20d ..\obj\stm32f4xx_iwdg.o
+ .debug_abbrev  0x00000000      0x112 ..\obj\stm32f4xx_iwdg.o
+ .debug_loc     0x00000000       0x62 ..\obj\stm32f4xx_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_iwdg.o
+ .debug_line    0x00000000      0x22f ..\obj\stm32f4xx_iwdg.o
+ .debug_str     0x00000000      0x2c4 ..\obj\stm32f4xx_iwdg.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_iwdg.o
+ .debug_frame   0x00000000       0x70 ..\obj\stm32f4xx_iwdg.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_iwdg.o
+ .text          0x00000000       0x80 ..\obj\stm32f4xx_syscfg.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_syscfg.o
+ .debug_info    0x00000000      0x2b6 ..\obj\stm32f4xx_syscfg.o
+ .debug_abbrev  0x00000000      0x162 ..\obj\stm32f4xx_syscfg.o
+ .debug_loc     0x00000000       0xa6 ..\obj\stm32f4xx_syscfg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_syscfg.o
+ .debug_line    0x00000000      0x2a0 ..\obj\stm32f4xx_syscfg.o
+ .debug_str     0x00000000      0x363 ..\obj\stm32f4xx_syscfg.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_syscfg.o
+ .debug_frame   0x00000000       0x88 ..\obj\stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_rcc.o
+ .data          0x00000000        0x0 ..\obj\dequant.o
+ .bss           0x00000000        0x0 ..\obj\dequant.o
+ .data          0x00000000        0x0 ..\obj\buffers.o
+ .text          0x00000000      0x110 ..\obj\stm32f4xx_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_pwr.o
+ .debug_info    0x00000000      0x55a ..\obj\stm32f4xx_pwr.o
+ .debug_abbrev  0x00000000      0x1bf ..\obj\stm32f4xx_pwr.o
+ .debug_loc     0x00000000      0x111 ..\obj\stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_pwr.o
+ .debug_line    0x00000000      0x2fa ..\obj\stm32f4xx_pwr.o
+ .debug_str     0x00000000      0x400 ..\obj\stm32f4xx_pwr.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_pwr.o
+ .debug_frame   0x00000000       0xe8 ..\obj\stm32f4xx_pwr.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_tim.o
+ .text          0x00000000      0x6b0 ..\obj\usb_dcd.o
+ .data          0x00000000        0x0 ..\obj\usb_dcd.o
+ .bss           0x00000000        0x0 ..\obj\usb_dcd.o
+ .debug_info    0x00000000     0x1571 ..\obj\usb_dcd.o
+ .debug_abbrev  0x00000000      0x2c3 ..\obj\usb_dcd.o
+ .debug_loc     0x00000000      0xacc ..\obj\usb_dcd.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\usb_dcd.o
+ .debug_line    0x00000000      0x4ec ..\obj\usb_dcd.o
+ .debug_str     0x00000000      0xea0 ..\obj\usb_dcd.o
+ .comment       0x00000000       0x6f ..\obj\usb_dcd.o
+ .debug_frame   0x00000000      0x140 ..\obj\usb_dcd.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\usb_dcd.o
+ .data          0x00000000        0x0 ..\obj\usb_bsp.o
+ COMMON         0x00000000        0x1 ..\obj\usb_bsp.o
+ .text          0x00000000      0x230 ..\obj\stm32f4xx_sdio.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_sdio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_sdio.o
+ .debug_info    0x00000000      0x7f3 ..\obj\stm32f4xx_sdio.o
+ .debug_abbrev  0x00000000      0x217 ..\obj\stm32f4xx_sdio.o
+ .debug_loc     0x00000000      0x1b2 ..\obj\stm32f4xx_sdio.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_sdio.o
+ .debug_line    0x00000000      0x347 ..\obj\stm32f4xx_sdio.o
+ .debug_str     0x00000000      0x678 ..\obj\stm32f4xx_sdio.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_sdio.o
+ .debug_frame   0x00000000      0x22c ..\obj\stm32f4xx_sdio.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_sdio.o
+ .text          0x00000000      0xd4c ..\obj\stm32f4xx_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_flash.o
+ .debug_info    0x00000000      0xffc ..\obj\stm32f4xx_flash.o
+ .debug_abbrev  0x00000000      0x217 ..\obj\stm32f4xx_flash.o
+ .debug_loc     0x00000000      0xcf2 ..\obj\stm32f4xx_flash.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_flash.o
+ .debug_ranges  0x00000000      0x698 ..\obj\stm32f4xx_flash.o
+ .debug_line    0x00000000      0x7a2 ..\obj\stm32f4xx_flash.o
+ .debug_str     0x00000000      0x5ea ..\obj\stm32f4xx_flash.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_flash.o
+ .debug_frame   0x00000000      0x2f4 ..\obj\stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_flash.o
+ .text          0x00000000      0x590 ..\obj\stm32f4xx_cryp_aes.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_cryp_aes.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_cryp_aes.o
+ .debug_info    0x00000000     0x14aa ..\obj\stm32f4xx_cryp_aes.o
+ .debug_abbrev  0x00000000      0x21a ..\obj\stm32f4xx_cryp_aes.o
+ .debug_loc     0x00000000     0x12a5 ..\obj\stm32f4xx_cryp_aes.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_cryp_aes.o
+ .debug_line    0x00000000      0x6df ..\obj\stm32f4xx_cryp_aes.o
+ .debug_str     0x00000000      0x4b9 ..\obj\stm32f4xx_cryp_aes.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_cryp_aes.o
+ .debug_frame   0x00000000       0x98 ..\obj\stm32f4xx_cryp_aes.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_cryp_aes.o
+ .data          0x00000000        0x0 ..\obj\usbh_msc_bot.o
+ .data          0x00000000        0x0 ..\obj\ccsbcs.o
+ .bss           0x00000000        0x0 ..\obj\ccsbcs.o
+ .data          0x00000000        0x0 ..\obj\scalfact.o
+ .bss           0x00000000        0x0 ..\obj\scalfact.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ COMMON         0x00000000        0x4 ..\obj\syscalls.o
+ .text          0x00000000      0x3a4 ..\obj\stm32f4xx_spi.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_spi.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_spi.o
+ .debug_info    0x00000000      0xbc4 ..\obj\stm32f4xx_spi.o
+ .debug_abbrev  0x00000000      0x1c0 ..\obj\stm32f4xx_spi.o
+ .debug_loc     0x00000000      0x644 ..\obj\stm32f4xx_spi.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_spi.o
+ .debug_line    0x00000000      0x3c4 ..\obj\stm32f4xx_spi.o
+ .debug_str     0x00000000      0x70f ..\obj\stm32f4xx_spi.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_spi.o
+ .debug_frame   0x00000000      0x200 ..\obj\stm32f4xx_spi.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_spi.o
+ .text          0x00000000        0x0 ..\obj\usb_otg.o
+ .data          0x00000000        0x0 ..\obj\usb_otg.o
+ .bss           0x00000000        0x0 ..\obj\usb_otg.o
+ .debug_info    0x00000000       0x8e ..\obj\usb_otg.o
+ .debug_abbrev  0x00000000       0x49 ..\obj\usb_otg.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\usb_otg.o
+ .debug_line    0x00000000      0x144 ..\obj\usb_otg.o
+ .debug_str     0x00000000      0x1c1 ..\obj\usb_otg.o
+ .comment       0x00000000       0x6f ..\obj\usb_otg.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\usb_otg.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_it.o
+ .bss           0x00000000        0x2 ..\obj\stm32f4xx_it.o
+ .data          0x00000000        0x0 ..\obj\ff.o
+ .text          0x00000000       0x58 ..\obj\stm32f4xx_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_crc.o
+ .debug_info    0x00000000      0x20b ..\obj\stm32f4xx_crc.o
+ .debug_abbrev  0x00000000      0x123 ..\obj\stm32f4xx_crc.o
+ .debug_loc     0x00000000       0x75 ..\obj\stm32f4xx_crc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_crc.o
+ .debug_line    0x00000000      0x238 ..\obj\stm32f4xx_crc.o
+ .debug_str     0x00000000      0x2a3 ..\obj\stm32f4xx_crc.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_crc.o
+ .debug_frame   0x00000000       0x70 ..\obj\stm32f4xx_crc.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_crc.o
+ .data          0x00000000        0x0 ..\obj\mp3dec.o
+ .bss           0x00000000        0x0 ..\obj\mp3dec.o
+ .text          0x00000000       0xa0 ..\obj\stm32f4xx_wwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_wwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_wwdg.o
+ .debug_info    0x00000000      0x293 ..\obj\stm32f4xx_wwdg.o
+ .debug_abbrev  0x00000000      0x171 ..\obj\stm32f4xx_wwdg.o
+ .debug_loc     0x00000000       0xd1 ..\obj\stm32f4xx_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_wwdg.o
+ .debug_line    0x00000000      0x2a4 ..\obj\stm32f4xx_wwdg.o
+ .debug_str     0x00000000      0x2e6 ..\obj\stm32f4xx_wwdg.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_wwdg.o
+ .debug_frame   0x00000000       0xa4 ..\obj\stm32f4xx_wwdg.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_wwdg.o
+ .text          0x00000000      0x1e0 ..\obj\stm32f4xx_hash_md5.o
+ .data          0x00000000        0x0 ..\obj\stm32f4xx_hash_md5.o
+ .bss           0x00000000        0x0 ..\obj\stm32f4xx_hash_md5.o
+ .debug_info    0x00000000      0x674 ..\obj\stm32f4xx_hash_md5.o
+ .debug_abbrev  0x00000000      0x1c1 ..\obj\stm32f4xx_hash_md5.o
+ .debug_loc     0x00000000      0x53c ..\obj\stm32f4xx_hash_md5.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f4xx_hash_md5.o
+ .debug_line    0x00000000      0x3e2 ..\obj\stm32f4xx_hash_md5.o
+ .debug_str     0x00000000      0x3bc ..\obj\stm32f4xx_hash_md5.o
+ .comment       0x00000000       0x6f ..\obj\stm32f4xx_hash_md5.o
+ .debug_frame   0x00000000       0x68 ..\obj\stm32f4xx_hash_md5.o
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\stm32f4xx_hash_md5.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x44 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x98 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xd0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xc5c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .rodata.blanks.7237
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x2f c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7238
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text.__get_current_locale
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr_l
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr
+                0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00020000         xrw
+CCM              0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20020000                _estack = 0x20020000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ..\obj\startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x080001c0    0x1de68
+                0x080001c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001c0      0x448 ..\obj\dqchan.o
+                0x08000388                xmp3fixpt_DequantChannel
+ .text          0x08000608     0x1908 ..\obj\usb_core.o
+                0x08000608                USB_OTG_WritePacket
+                0x08000630                USB_OTG_ReadPacket
+                0x08000658                USB_OTG_SelectCore
+                0x0800099c                USB_OTG_CoreInit
+                0x08000b30                USB_OTG_EnableGlobalInt
+                0x08000b40                USB_OTG_DisableGlobalInt
+                0x08000b50                USB_OTG_FlushTxFifo
+                0x08000b98                USB_OTG_FlushRxFifo
+                0x08000bd8                USB_OTG_SetCurrentMode
+                0x08000c04                USB_OTG_GetMode
+                0x08000c10                USB_OTG_IsDeviceMode
+                0x08000c20                USB_OTG_IsHostMode
+                0x08000c2c                USB_OTG_ReadCoreItr
+                0x08000c38                USB_OTG_ReadOtgItr
+                0x08000c40                USB_OTG_CoreInitHost
+                0x08000e3c                USB_OTG_IsEvenFrame
+                0x08000e4c                USB_OTG_DriveVbus
+                0x08000ea4                USB_OTG_EnableHostInt
+                0x08000ee0                USB_OTG_InitFSLSPClkSel
+                0x08000eec                USB_OTG_ReadHPRT0
+                0x08000ef8                USB_OTG_ReadHostAllChannels_intr
+                0x08000f00                USB_OTG_ResetPort
+                0x08000f3c                USB_OTG_HC_Init
+                0x08001028                USB_OTG_HC_StartXfer
+                0x0800114c                USB_OTG_HC_Halt
+                0x08001184                USB_OTG_HC_DoPing
+                0x080011a8                USB_OTG_StopHost
+                0x080013b8                USB_OTG_InitDevSpeed
+                0x080013c4                USB_OTG_CoreInitDev
+                0x08001830                USB_OTG_EnableDevInt
+                0x0800186c                USB_OTG_GetDeviceSpeed
+                0x0800188c                USB_OTG_EP0Activate
+                0x080018b4                USB_OTG_EPActivate
+                0x08001910                USB_OTG_EPDeactivate
+                0x08001954                USB_OTG_EPStartXfer
+                0x08001a90                USB_OTG_EP0StartXfer
+                0x08001b94                USB_OTG_EPSetStall
+                0x08001bc4                USB_OTG_EPClearStall
+                0x08001bf0                USB_OTG_ReadDevAllOutEp_itr
+                0x08001bfc                USB_OTG_ReadDevOutEP_itr
+                0x08001c0c                USB_OTG_ReadDevAllInEPItr
+                0x08001c18                USB_OTG_EP0_OutStart
+                0x08001c5c                USB_OTG_ActiveRemoteWakeup
+                0x08001ca0                USB_OTG_UngateClock
+                0x08001cc0                USB_OTG_StopDevice
+                0x08001e28                USB_OTG_GetEPStatus
+                0x08001e74                USB_OTG_SetEPStatus
+ .text          0x08001f10      0x140 ..\obj\usbh_hcs.o
+                0x08001f10                USBH_Open_Channel
+                0x08001f60                USBH_Modify_Channel
+                0x08001f9c                USBH_Alloc_Channel
+                0x08002024                USBH_Free_Channel
+                0x0800203c                USBH_DeAllocate_AllChannel
+ .text          0x08002050      0x968 ..\obj\Audio.o
+                0x08002050                InitializeAudio
+                0x08002624                AudioOn
+                0x08002684                AudioOff
+                0x080026e0                SetAudioVolume
+                0x08002780                OutputAudioSample
+                0x08002794                OutputAudioSampleWithoutBlocking
+                0x080027a0                PlayAudioWithCallback
+                0x080027fc                StopAudio
+                0x08002844                ProvideAudioBuffer
+                0x080028cc                ProvideAudioBufferWithoutBlocking
+                0x08002948                DMA1_Stream7_IRQHandler
+ .text          0x080029b8      0x154 ..\obj\usbh_msc_fatfs.o
+                0x080029b8                disk_initialize
+                0x080029d8                disk_status
+                0x080029ec                disk_read
+                0x08002a54                disk_write
+                0x08002ac4                disk_ioctl
+ .text          0x08002b0c      0x858 ..\obj\polyphase.o
+                0x08002b0c                xmp3fixpt_PolyphaseMono
+                0x08002df4                xmp3fixpt_PolyphaseStereo
+ .text          0x08003364      0x150 ..\obj\usb_hcd.o
+                0x08003364                HCD_Init
+                0x08003450                HCD_GetCurrentSpeed
+                0x0800345c                HCD_ResetPort
+                0x08003468                HCD_IsDeviceConnected
+                0x08003470                HCD_GetCurrentFrame
+                0x08003478                HCD_GetURB_State
+                0x08003480                HCD_GetXferCnt
+                0x0800348c                HCD_GetHCState
+                0x08003494                HCD_HC_Init
+                0x0800349c                HCD_SubmitRequest
+ .text          0x080034b4      0x6a8 ..\obj\usbh_core.o
+                0x080034b4                USBH_Connect
+                0x080034c8                USBH_Disconnect
+                0x080034dc                USBH_Init
+                0x08003550                USBH_DeInit
+                0x08003584                USBH_ErrorHandle
+                0x080035b0                USBH_HandleControl
+                0x08003784                USBH_Process
+ .text          0x08003b5c      0x114 ..\obj\subband.o
+                0x08003b5c                xmp3fixpt_Subband
+ .text          0x08003c70      0x1e0 ..\obj\usbh_ioreq.o
+                0x08003c70                USBH_CtlReq
+                0x08003cc4                USBH_CtlSendSetup
+                0x08003cf4                USBH_CtlSendData
+                0x08003d3c                USBH_CtlReceiveData
+                0x08003d68                USBH_BulkSendData
+                0x08003d9c                USBH_BulkReceiveData
+                0x08003dd0                USBH_InterruptReceiveData
+                0x08003e10                USBH_InterruptSendData
+ .text          0x08003e50      0x56c ..\obj\main.o
+                0x08004364                get_filename_ext
+                0x08004380                TimingDelay_Decrement
+                0x080043a0                Delay
+                0x080043b8                _init
+ .text          0x080043bc      0x388 ..\obj\usbh_msc_scsi.o
+                0x080043bc                USBH_MSC_TestUnitReady
+                0x08004428                USBH_MSC_ReadCapacity10
+                0x080044c4                USBH_MSC_ModeSense6
+                0x0800454c                USBH_MSC_RequestSense
+                0x080045e4                USBH_MSC_Write10
+                0x08004678                USBH_MSC_Read10
+ .text          0x08004744      0x2cc ..\obj\usbh_stdreq.o
+                0x08004744                USBH_Get_DevDesc
+                0x080047fc                USBH_Get_CfgDesc
+                0x08004914                USBH_Get_StringDesc
+                0x08004980                USBH_GetDescriptor
+                0x080049b4                USBH_SetAddress
+                0x080049cc                USBH_SetCfg
+                0x080049e4                USBH_ClrFeature
+ .text          0x08004a10      0x434 ..\obj\stm32f4xx_usart.o
+                0x08004a10                USART_DeInit
+                0x08004ad8                USART_Init
+                0x08004b9c                USART_StructInit
+                0x08004bb4                USART_ClockInit
+                0x08004bd8                USART_ClockStructInit
+                0x08004be4                USART_Cmd
+                0x08004c00                USART_SetPrescaler
+                0x08004c14                USART_OverSampling8Cmd
+                0x08004c30                USART_OneBitMethodCmd
+                0x08004c4c                USART_SendData
+                0x08004c54                USART_ReceiveData
+                0x08004c5c                USART_SetAddress
+                0x08004c74                USART_ReceiverWakeUpCmd
+                0x08004c90                USART_WakeUpConfig
+                0x08004ca8                USART_LINBreakDetectLengthConfig
+                0x08004cc0                USART_LINCmd
+                0x08004cdc                USART_SendBreak
+                0x08004ce8                USART_HalfDuplexCmd
+                0x08004d04                USART_SetGuardTime
+                0x08004d18                USART_SmartCardCmd
+                0x08004d34                USART_SmartCardNACKCmd
+                0x08004d50                USART_IrDAConfig
+                0x08004d68                USART_IrDACmd
+                0x08004d84                USART_DMACmd
+                0x08004d98                USART_ITConfig
+                0x08004dd4                USART_GetFlagStatus
+                0x08004de0                USART_ClearFlag
+                0x08004de8                USART_GetITStatus
+                0x08004e34                USART_ClearITPendingBit
+ .text          0x08004e44     0x1314 ..\obj\usb_hcd_int.o
+                0x08004e44                USBH_OTG_ISR_Handler
+ .text          0x08006158        0x4 ..\obj\fattime.o
+                0x08006158                get_fattime
+ .text          0x0800615c      0x7b4 ..\obj\huffman.o
+                0x0800615c                xmp3fixpt_DecodeHuffman
+ .text          0x08006910      0x100 ..\obj\stm32f4xx_exti.o
+                0x08006910                EXTI_DeInit
+                0x0800692c                EXTI_Init
+                0x080069a8                EXTI_StructInit
+                0x080069b8                EXTI_GenerateSWInterrupt
+                0x080069c8                EXTI_GetFlagStatus
+                0x080069dc                EXTI_ClearFlag
+                0x080069e8                EXTI_GetITStatus
+                0x08006a04                EXTI_ClearITPendingBit
+ .text          0x08006a10     0x2544 ..\obj\imdct.o
+                0x08007458                xmp3fixpt_IMDCT
+ .text          0x08008f54       0xc8 ..\obj\misc.o
+                0x08008f54                NVIC_PriorityGroupConfig
+                0x08008f68                NVIC_Init
+                0x08008fd8                NVIC_SetVectorTable
+                0x08008fec                NVIC_SystemLPConfig
+                0x08009004                SysTick_CLKSourceConfig
+ .text          0x0800901c      0x174 ..\obj\system_stm32f4xx.o
+                0x0800901c                SystemInit
+                0x0800911c                SystemCoreClockUpdate
+ .text          0x08009190      0x268 ..\obj\stm32f4xx_gpio.o
+                0x08009190                GPIO_DeInit
+                0x080092a8                GPIO_Init
+                0x0800934c                GPIO_StructInit
+                0x08009360                GPIO_PinLockConfig
+                0x08009384                GPIO_ReadInputDataBit
+                0x08009390                GPIO_ReadInputData
+                0x08009398                GPIO_ReadOutputDataBit
+                0x080093a4                GPIO_ReadOutputData
+                0x080093ac                GPIO_SetBits
+                0x080093b0                GPIO_ResetBits
+                0x080093b4                GPIO_WriteBit
+                0x080093c0                GPIO_Write
+                0x080093c4                GPIO_ToggleBits
+                0x080093cc                GPIO_PinAFConfig
+ .text          0x080093f8       0xe0 ..\obj\usbh_usr.o
+                0x080093f8                USBH_USR_DeviceSpeedDetected
+                0x080093fc                USBH_USR_Configuration_DescAvailable
+                0x08009400                USBH_USR_SerialNum_String
+                0x08009404                USBH_USR_UserInput
+                0x08009408                USBH_USR_DeInit
+                0x0800940c                USBH_USR_DeviceAttached
+                0x0800941c                USBH_USR_DeviceDisconnected
+                0x08009444                USBH_USR_MSC_Application
+                0x0800947c                USBH_USR_Product_String
+                0x08009480                USBH_USR_Device_DescAvailable
+                0x08009484                USBH_USR_Manufacturer_String
+                0x08009488                USBH_USR_DeviceAddressAssigned
+                0x0800948c                USBH_USR_ResetDevice
+                0x08009490                USBH_USR_DeviceNotSupported
+                0x08009494                USBH_USR_OverCurrentDetected
+                0x08009498                USBH_USR_Init
+                0x0800949c                USBH_USR_UnrecoveredError
+                0x080094a0                USBH_USR_EnumerationDone
+ .text          0x080094d8      0xa7c ..\obj\dct32.o
+                0x080094d8                xmp3fixpt_FDCT32
+ .text          0x08009f54     0x1650 ..\obj\bitstream.o
+                0x08009f54                xmp3fixpt_SetBitstreamPointer
+                0x08009f60                xmp3fixpt_GetBits
+                0x0800a034                xmp3fixpt_CalcBitsUsed
+                0x0800a048                xmp3fixpt_CheckPadBit
+                0x0800a060                xmp3fixpt_UnpackFrameHeader
+                0x0800a24c                xmp3fixpt_UnpackSideInfo
+ .text          0x0800b5a4      0x690 ..\obj\stproc.o
+                0x0800b5a4                xmp3fixpt_MidSideProc
+                0x0800b608                xmp3fixpt_IntensityProcMPEG1
+                0x0800b960                xmp3fixpt_IntensityProcMPEG2
+ .text          0x0800bc34      0x2ac ..\obj\usbh_msc_core.o
+                0x0800beac                USBH_MSC_ErrorHandle
+ .text          0x0800bee0      0x4b8 ..\obj\stm32f4xx_rcc.o
+                0x0800bee0                RCC_DeInit
+                0x0800bf14                RCC_HSEConfig
+                0x0800bf24                RCC_WaitForHSEStartUp
+                0x0800bf58                RCC_AdjustHSICalibrationValue
+                0x0800bf6c                RCC_HSICmd
+                0x0800bf78                RCC_LSEConfig
+                0x0800bf98                RCC_LSICmd
+                0x0800bfa4                RCC_PLLConfig
+                0x0800bfc8                RCC_PLLCmd
+                0x0800bfd4                RCC_PLLI2SConfig
+                0x0800bfe8                RCC_PLLI2SCmd
+                0x0800bff4                RCC_ClockSecuritySystemCmd
+                0x0800c000                RCC_MCO1Config
+                0x0800c014                RCC_MCO2Config
+                0x0800c028                RCC_SYSCLKConfig
+                0x0800c03c                RCC_GetSYSCLKSource
+                0x0800c04c                RCC_HCLKConfig
+                0x0800c060                RCC_PCLK1Config
+                0x0800c074                RCC_PCLK2Config
+                0x0800c088                RCC_GetClocksFreq
+                0x0800c120                RCC_RTCCLKConfig
+                0x0800c150                RCC_RTCCLKCmd
+                0x0800c15c                RCC_BackupResetCmd
+                0x0800c168                RCC_I2SCLKConfig
+                0x0800c174                RCC_AHB1PeriphClockCmd
+                0x0800c190                RCC_AHB2PeriphClockCmd
+                0x0800c1ac                RCC_AHB3PeriphClockCmd
+                0x0800c1c8                RCC_APB1PeriphClockCmd
+                0x0800c1e4                RCC_APB2PeriphClockCmd
+                0x0800c200                RCC_AHB1PeriphResetCmd
+                0x0800c21c                RCC_AHB2PeriphResetCmd
+                0x0800c238                RCC_AHB3PeriphResetCmd
+                0x0800c254                RCC_APB1PeriphResetCmd
+                0x0800c270                RCC_APB2PeriphResetCmd
+                0x0800c28c                RCC_AHB1PeriphClockLPModeCmd
+                0x0800c2a8                RCC_AHB2PeriphClockLPModeCmd
+                0x0800c2c4                RCC_AHB3PeriphClockLPModeCmd
+                0x0800c2e0                RCC_APB1PeriphClockLPModeCmd
+                0x0800c2fc                RCC_APB2PeriphClockLPModeCmd
+                0x0800c318                RCC_ITConfig
+                0x0800c334                RCC_GetFlagStatus
+                0x0800c368                RCC_ClearFlag
+                0x0800c378                RCC_GetITStatus
+                0x0800c38c                RCC_ClearITPendingBit
+ .text          0x0800c398      0x278 ..\obj\dequant.o
+                0x0800c398                xmp3fixpt_Dequantize
+ .text          0x0800c610       0xa0 ..\obj\buffers.o
+                0x0800c610                xmp3fixpt_AllocateBuffers
+                0x0800c6ac                xmp3fixpt_FreeBuffers
+ .text          0x0800c6b0      0xdc8 ..\obj\stm32f4xx_tim.o
+                0x0800c6b0                TIM_DeInit
+                0x0800c868                TIM_TimeBaseInit
+                0x0800c900                TIM_TimeBaseStructInit
+                0x0800c914                TIM_PrescalerConfig
+                0x0800c91c                TIM_CounterModeConfig
+                0x0800c92c                TIM_SetCounter
+                0x0800c930                TIM_SetAutoreload
+                0x0800c934                TIM_GetCounter
+                0x0800c938                TIM_GetPrescaler
+                0x0800c940                TIM_UpdateDisableConfig
+                0x0800c95c                TIM_UpdateRequestConfig
+                0x0800c978                TIM_ARRPreloadConfig
+                0x0800c994                TIM_SelectOnePulseMode
+                0x0800c9ac                TIM_SetClockDivision
+                0x0800c9c4                TIM_Cmd
+                0x0800c9e0                TIM_OC1Init
+                0x0800ca60                TIM_OC2Init
+                0x0800caf0                TIM_OC3Init
+                0x0800cb7c                TIM_OC4Init
+                0x0800cbf0                TIM_OCStructInit
+                0x0800cc04                TIM_SelectOCxM
+                0x0800cc54                TIM_SetCompare1
+                0x0800cc58                TIM_SetCompare2
+                0x0800cc5c                TIM_SetCompare3
+                0x0800cc60                TIM_SetCompare4
+                0x0800cc64                TIM_ForcedOC1Config
+                0x0800cc74                TIM_ForcedOC2Config
+                0x0800cc88                TIM_ForcedOC3Config
+                0x0800cc98                TIM_ForcedOC4Config
+                0x0800ccac                TIM_OC1PreloadConfig
+                0x0800ccbc                TIM_OC2PreloadConfig
+                0x0800ccd0                TIM_OC3PreloadConfig
+                0x0800cce0                TIM_OC4PreloadConfig
+                0x0800ccf4                TIM_OC1FastConfig
+                0x0800cd04                TIM_OC2FastConfig
+                0x0800cd18                TIM_OC3FastConfig
+                0x0800cd28                TIM_OC4FastConfig
+                0x0800cd3c                TIM_ClearOC1Ref
+                0x0800cd4c                TIM_ClearOC2Ref
+                0x0800cd5c                TIM_ClearOC3Ref
+                0x0800cd6c                TIM_ClearOC4Ref
+                0x0800cd7c                TIM_OC1PolarityConfig
+                0x0800cd8c                TIM_OC1NPolarityConfig
+                0x0800cd9c                TIM_OC2PolarityConfig
+                0x0800cdb0                TIM_OC2NPolarityConfig
+                0x0800cdc4                TIM_OC3PolarityConfig
+                0x0800cdd8                TIM_OC3NPolarityConfig
+                0x0800cdec                TIM_OC4PolarityConfig
+                0x0800ce00                TIM_CCxCmd
+                0x0800ce20                TIM_CCxNCmd
+                0x0800ce40                TIM_ICInit
+                0x0800cfa8                TIM_ICStructInit
+                0x0800cfb8                TIM_PWMIConfig
+                0x0800d114                TIM_GetCapture1
+                0x0800d118                TIM_GetCapture2
+                0x0800d11c                TIM_GetCapture3
+                0x0800d120                TIM_GetCapture4
+                0x0800d124                TIM_SetIC1Prescaler
+                0x0800d13c                TIM_SetIC2Prescaler
+                0x0800d158                TIM_SetIC3Prescaler
+                0x0800d170                TIM_SetIC4Prescaler
+                0x0800d18c                TIM_BDTRConfig
+                0x0800d1b4                TIM_BDTRStructInit
+                0x0800d1c8                TIM_CtrlPWMOutputs
+                0x0800d1e8                TIM_SelectCOM
+                0x0800d204                TIM_CCPreloadControl
+                0x0800d220                TIM_ITConfig
+                0x0800d234                TIM_GenerateEvent
+                0x0800d238                TIM_GetFlagStatus
+                0x0800d244                TIM_ClearFlag
+                0x0800d24c                TIM_GetITStatus
+                0x0800d264                TIM_ClearITPendingBit
+                0x0800d26c                TIM_DMAConfig
+                0x0800d274                TIM_DMACmd
+                0x0800d288                TIM_SelectCCDMA
+                0x0800d2a4                TIM_InternalClockConfig
+                0x0800d2b4                TIM_ITRxExternalClockConfig
+                0x0800d2d0                TIM_TIxExternalClockConfig
+                0x0800d358                TIM_ETRClockMode1Config
+                0x0800d380                TIM_ETRClockMode2Config
+                0x0800d3a4                TIM_SelectInputTrigger
+                0x0800d3b4                TIM_SelectOutputTrigger
+                0x0800d3cc                TIM_SelectSlaveMode
+                0x0800d3e4                TIM_SelectMasterSlaveMode
+                0x0800d3fc                TIM_ETRConfig
+                0x0800d414                TIM_EncoderInterfaceConfig
+                0x0800d454                TIM_SelectHallSensor
+                0x0800d470                TIM_RemapConfig
+ .text          0x0800d478      0x310 ..\obj\usb_bsp.o
+                0x0800d478                BSP_Init
+                0x0800d47c                USB_OTG_BSP_Init
+                0x0800d540                USB_OTG_BSP_EnableInterrupt
+                0x0800d584                USB_OTG_BSP_DriveVBUS
+                0x0800d59c                USB_OTG_BSP_ConfigVBUS
+                0x0800d650                USB_OTG_BSP_uDelay
+                0x0800d6d0                USB_OTG_BSP_mDelay
+                0x0800d750                USB_OTG_BSP_TimerIRQ
+ .text          0x0800d788      0x390 ..\obj\usbh_msc_bot.o
+                0x0800d788                USBH_MSC_Init
+                0x0800d7c8                USBH_MSC_HandleBOTXfer
+                0x0800da7c                USBH_MSC_BOT_Abort
+                0x0800dab8                USBH_MSC_DecodeCSW
+ .text          0x0800db18       0x7c ..\obj\ccsbcs.o
+                0x0800db18                ff_convert
+                0x0800db60                ff_wtoupper
+ .text          0x0800db94      0x89c ..\obj\scalfact.o
+                0x0800db94                xmp3fixpt_UnpackScaleFactors
+ .text          0x0800e430       0x6c ..\obj\syscalls.o
+                0x0800e430                _close
+                0x0800e434                _fstat
+                0x0800e438                _isatty
+                0x0800e43c                _lseek
+                0x0800e440                _open
+                0x0800e448                _read
+                0x0800e44c                _sbrk_r
+                0x0800e470                _write
+ .text          0x0800e49c       0x44 ..\obj\stm32f4xx_it.o
+                0x0800e49c                NMI_Handler
+                0x0800e4a0                HardFault_Handler
+                0x0800e4a4                MemManage_Handler
+                0x0800e4a8                BusFault_Handler
+                0x0800e4ac                UsageFault_Handler
+                0x0800e4b0                SVC_Handler
+                0x0800e4b4                DebugMon_Handler
+                0x0800e4b8                PendSV_Handler
+                0x0800e4bc                SysTick_Handler
+                0x0800e4c0                EXTI1_IRQHandler
+                0x0800e4c8                EXTI0_IRQHandler
+                0x0800e4d0                TIM2_IRQHandler
+                0x0800e4d4                OTG_FS_IRQHandler
+ .text          0x0800e4e0     0x6910 ..\obj\ff.o
+                0x08010c40                get_fat
+                0x08010f10                put_fat
+                0x08011224                clust2sect
+                0x0801123c                gen_numname
+                0x08011504                chk_mounted
+                0x08011700                f_mount
+                0x08011720                f_open
+                0x08011b0c                f_read
+                0x08011e34                f_write
+                0x080121cc                f_sync
+                0x080122fc                f_close
+                0x0801242c                f_lseek
+                0x080125d8                f_opendir
+                0x08012810                f_readdir
+                0x08012914                f_stat
+                0x08012b34                f_getfree
+                0x08012c9c                f_truncate
+                0x08012d70                f_unlink
+                0x08013028                f_mkdir
+                0x080134e0                f_chmod
+                0x0801373c                f_utime
+                0x08013990                f_rename
+                0x08013b44                f_mkfs
+                0x0801416c                f_gets
+                0x0801449c                f_putc
+                0x080146a4                f_puts
+                0x080148ec                f_printf
+ .text          0x08014df0      0x570 ..\obj\mp3dec.o
+                0x08014df0                MP3InitDecoder
+                0x08014df4                MP3FreeDecoder
+                0x08014dfc                MP3FindSyncWord
+                0x08014e28                MP3GetLastFrameInfo
+                0x08014e80                MP3GetNextFrameInfo
+                0x08014ee0                MP3Decode
+ .text          0x08015360      0x134 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+                0x08015360                memcpy
+ *fill*         0x08015494        0xc 
+ .text          0x080154a0      0x2dc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+                0x080154a8                strcmp
+ *fill*         0x0801577c        0x4 
+ .text          0x08015780       0xa0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr.o)
+                0x08015780                memchr
+ *fill*         0x08015820       0x20 
+ .text          0x08015840       0xdc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+                0x08015840                strlen
+ .text          0x0801591c      0x370 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                0x0801591c                __aeabi_drsub
+                0x08015924                __aeabi_dsub
+                0x08015924                __subdf3
+                0x08015928                __aeabi_dadd
+                0x08015928                __adddf3
+                0x08015ba0                __floatunsidf
+                0x08015ba0                __aeabi_ui2d
+                0x08015bc0                __floatsidf
+                0x08015bc0                __aeabi_i2d
+                0x08015be4                __aeabi_f2d
+                0x08015be4                __extendsfdf2
+                0x08015c20                __floatundidf
+                0x08015c20                __aeabi_ul2d
+                0x08015c30                __floatdidf
+                0x08015c30                __aeabi_l2d
+ .text          0x08015c8c      0x424 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+                0x08015c8c                __aeabi_dmul
+                0x08015c8c                __muldf3
+                0x08015ee0                __divdf3
+                0x08015ee0                __aeabi_ddiv
+ .text          0x080160b0      0x110 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                0x080160b0                __gtdf2
+                0x080160b0                __gedf2
+                0x080160b8                __ltdf2
+                0x080160b8                __ledf2
+                0x080160c0                __nedf2
+                0x080160c0                __eqdf2
+                0x080160c0                __cmpdf2
+                0x0801613c                __aeabi_cdrcmple
+                0x0801614c                __aeabi_cdcmpeq
+                0x0801614c                __aeabi_cdcmple
+                0x0801615c                __aeabi_dcmpeq
+                0x08016170                __aeabi_dcmplt
+                0x08016184                __aeabi_dcmple
+                0x08016198                __aeabi_dcmpge
+                0x080161ac                __aeabi_dcmpgt
+ .text          0x080161c0       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_unorddf2.o)
+                0x080161c0                __unorddf2
+                0x080161c0                __aeabi_dcmpun
+ .text          0x080161ec       0x50 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+                0x080161ec                __aeabi_d2iz
+                0x080161ec                __fixdfsi
+ .text          0x0801623c       0x30 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                0x0801623c                __aeabi_uldivmod
+ .text          0x0801626c      0x2e4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                0x0801626c                __udivmoddi4
+ .text          0x08016550        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                0x08016550                __aeabi_idiv0
+                0x08016550                __aeabi_ldiv0
+ *(.text*)
+ .text.startup  0x08016554       0xb0 ..\obj\main.o
+                0x08016554                main
+ .text.Reset_Handler
+                0x08016604       0x48 ..\obj\startup_stm32f4xx.o
+                0x08016604                Reset_Handler
+ .text.Default_Handler
+                0x0801664c        0x2 ..\obj\startup_stm32f4xx.o
+                0x0801664c                RTC_Alarm_IRQHandler
+                0x0801664c                HASH_RNG_IRQHandler
+                0x0801664c                EXTI2_IRQHandler
+                0x0801664c                TIM8_CC_IRQHandler
+                0x0801664c                TIM1_CC_IRQHandler
+                0x0801664c                DMA2_Stream5_IRQHandler
+                0x0801664c                DMA1_Stream5_IRQHandler
+                0x0801664c                PVD_IRQHandler
+                0x0801664c                SDIO_IRQHandler
+                0x0801664c                TAMP_STAMP_IRQHandler
+                0x0801664c                CAN2_RX1_IRQHandler
+                0x0801664c                EXTI3_IRQHandler
+                0x0801664c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0801664c                TIM1_UP_TIM10_IRQHandler
+                0x0801664c                TIM8_UP_TIM13_IRQHandler
+                0x0801664c                I2C3_ER_IRQHandler
+                0x0801664c                I2C2_EV_IRQHandler
+                0x0801664c                DMA1_Stream2_IRQHandler
+                0x0801664c                CAN1_RX0_IRQHandler
+                0x0801664c                FPU_IRQHandler
+                0x0801664c                OTG_HS_WKUP_IRQHandler
+                0x0801664c                CAN2_SCE_IRQHandler
+                0x0801664c                DMA2_Stream2_IRQHandler
+                0x0801664c                SPI1_IRQHandler
+                0x0801664c                TIM6_DAC_IRQHandler
+                0x0801664c                TIM1_BRK_TIM9_IRQHandler
+                0x0801664c                DCMI_IRQHandler
+                0x0801664c                CAN2_RX0_IRQHandler
+                0x0801664c                DMA2_Stream3_IRQHandler
+                0x0801664c                USART6_IRQHandler
+                0x0801664c                USART3_IRQHandler
+                0x0801664c                CRYP_IRQHandler
+                0x0801664c                CAN1_RX1_IRQHandler
+                0x0801664c                UART5_IRQHandler
+                0x0801664c                DMA2_Stream0_IRQHandler
+                0x0801664c                TIM4_IRQHandler
+                0x0801664c                I2C1_EV_IRQHandler
+                0x0801664c                DMA1_Stream6_IRQHandler
+                0x0801664c                DMA1_Stream1_IRQHandler
+                0x0801664c                UART4_IRQHandler
+                0x0801664c                TIM3_IRQHandler
+                0x0801664c                RCC_IRQHandler
+                0x0801664c                TIM8_BRK_TIM12_IRQHandler
+                0x0801664c                Default_Handler
+                0x0801664c                EXTI15_10_IRQHandler
+                0x0801664c                ADC_IRQHandler
+                0x0801664c                TIM7_IRQHandler
+                0x0801664c                CAN2_TX_IRQHandler
+                0x0801664c                TIM5_IRQHandler
+                0x0801664c                DMA2_Stream7_IRQHandler
+                0x0801664c                I2C3_EV_IRQHandler
+                0x0801664c                EXTI9_5_IRQHandler
+                0x0801664c                RTC_WKUP_IRQHandler
+                0x0801664c                ETH_WKUP_IRQHandler
+                0x0801664c                SPI2_IRQHandler
+                0x0801664c                OTG_HS_EP1_IN_IRQHandler
+                0x0801664c                DMA1_Stream0_IRQHandler
+                0x0801664c                CAN1_TX_IRQHandler
+                0x0801664c                EXTI4_IRQHandler
+                0x0801664c                FSMC_IRQHandler
+                0x0801664c                ETH_IRQHandler
+                0x0801664c                OTG_HS_EP1_OUT_IRQHandler
+                0x0801664c                WWDG_IRQHandler
+                0x0801664c                OTG_FS_WKUP_IRQHandler
+                0x0801664c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0801664c                OTG_HS_IRQHandler
+                0x0801664c                USART2_IRQHandler
+                0x0801664c                I2C2_ER_IRQHandler
+                0x0801664c                DMA2_Stream1_IRQHandler
+                0x0801664c                CAN1_SCE_IRQHandler
+                0x0801664c                FLASH_IRQHandler
+                0x0801664c                DMA2_Stream4_IRQHandler
+                0x0801664c                USART1_IRQHandler
+                0x0801664c                SPI3_IRQHandler
+                0x0801664c                DMA1_Stream4_IRQHandler
+                0x0801664c                I2C1_ER_IRQHandler
+                0x0801664c                DMA2_Stream6_IRQHandler
+                0x0801664c                DMA1_Stream3_IRQHandler
+ *fill*         0x0801664e        0x2 
+ .text.__libc_init_array
+                0x08016650       0x50 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+                0x08016650                __libc_init_array
+ .text.memmove  0x080166a0       0xc8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+                0x080166a0                memmove
+ .text.memset   0x08016768       0x9c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+                0x08016768                memset
+ .text.sprintf  0x08016804       0x4c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+                0x08016804                sprintf
+ .text.strncmp  0x08016850       0xa0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+                0x08016850                strncmp
+ .text.strrchr  0x080168f0       0x24 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+                0x080168f0                strrchr
+ *fill*         0x08016914        0x4 
+ .text._svfprintf_r
+                0x08016918     0x16e4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+                0x08016918                _svfprintf_r
+ .text.quorem   0x08017ffc      0x128 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ *fill*         0x08018124        0x4 
+ .text._dtoa_r  0x08018128      0xe34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                0x08018128                _dtoa_r
+ .text._localeconv_r
+                0x08018f5c       0x1c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+                0x08018f5c                _localeconv_r
+ .text._malloc_r
+                0x08018f78      0x570 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x08018f78                _malloc_r
+ .text.__malloc_lock
+                0x080194e8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                0x080194e8                __malloc_lock
+ .text.__malloc_unlock
+                0x080194ec        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+                0x080194ec                __malloc_unlock
+ .text._Balloc  0x080194f0       0x4c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080194f0                _Balloc
+ .text._Bfree   0x0801953c       0x14 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x0801953c                _Bfree
+ .text.__multadd
+                0x08019550       0x80 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019550                __multadd
+ .text.__hi0bits
+                0x080195d0       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080195d0                __hi0bits
+ .text.__lo0bits
+                0x08019610       0x5c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019610                __lo0bits
+ .text.__i2b    0x0801966c       0x14 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x0801966c                __i2b
+ .text.__multiply
+                0x08019680      0x130 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019680                __multiply
+ .text.__pow5mult
+                0x080197b0       0xa0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x080197b0                __pow5mult
+ .text.__lshift
+                0x08019850       0xb0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019850                __lshift
+ .text.__mcmp   0x08019900       0x44 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019900                __mcmp
+ .text.__mdiff  0x08019944      0x114 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019944                __mdiff
+ .text.__d2b    0x08019a58       0xbc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x08019a58                __d2b
+ .text.strchr   0x08019b14       0xd0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+                0x08019b14                strchr
+ .text.__ssprint_r
+                0x08019be4      0x100 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+                0x08019be4                __ssprint_r
+ .text._calloc_r
+                0x08019ce4       0x60 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+                0x08019ce4                _calloc_r
+ .text._malloc_trim_r
+                0x08019d44       0x9c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                0x08019d44                _malloc_trim_r
+ .text._free_r  0x08019de0      0x1d0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+                0x08019de0                _free_r
+ .text.__ascii_mbtowc
+                0x08019fb0       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+                0x08019fb0                __ascii_mbtowc
+ .text._realloc_r
+                0x08019fdc      0x3e0 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+                0x08019fdc                _realloc_r
+ .text.__ascii_wctomb
+                0x0801a3bc       0x1c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+                0x0801a3bc                __ascii_wctomb
+ *(.rodata)
+ .rodata        0x0801a3d8     0x2304 ..\obj\hufftabs.o
+                0x0801a3d8                xmp3fixpt_quadTabMaxBits
+                0x0801a3e0                xmp3fixpt_quadTabOffset
+                0x0801a3e8                xmp3fixpt_quadTable
+                0x0801a438                xmp3fixpt_huffTabLookup
+                0x0801a538                xmp3fixpt_huffTabOffset
+                0x0801a5b8                xmp3fixpt_huffTable
+ .rodata        0x0801c6dc      0x226 ..\obj\dqchan.o
+ *fill*         0x0801c902        0x2 
+ .rodata        0x0801c904      0x86c ..\obj\trigtabs_fixpt.o
+                0x0801c904                xmp3fixpt_polyCoef
+                0x0801cd24                xmp3fixpt_coef32
+                0x0801cda0                xmp3fixpt_csa
+                0x0801cde0                xmp3fixpt_uniqueIDTab
+                0x0801cde8                xmp3fixpt_ISFIIP
+                0x0801cdf8                xmp3fixpt_ISFMpeg2
+                0x0801cef8                xmp3fixpt_ISFMpeg1
+                0x0801cf30                xmp3fixpt_imdctWin
+ .rodata        0x0801d170       0xc0 ..\obj\dct32.o
+ .rodata        0x0801d230      0x508 ..\obj\mp3tabs.o
+                0x0801d230                xmp3fixpt_sfBandTable
+                0x0801d4cc                xmp3fixpt_slotTab
+                0x0801d5dc                xmp3fixpt_sideBytesTab
+                0x0801d5e8                xmp3fixpt_bitsPerSlotTab
+                0x0801d5f0                xmp3fixpt_samplesPerFrameTab
+                0x0801d604                xmp3fixpt_bitrateTab
+                0x0801d714                xmp3fixpt_samplerateTab
+ .rodata        0x0801d738      0x4c0 ..\obj\ccsbcs.o
+ .rodata        0x0801dbf8       0x68 ..\obj\scalfact.o
+ .rodata        0x0801dc60       0xd2 ..\obj\ff.o
+ *(.rodata*)
+ *fill*         0x0801dd32        0x2 
+ .rodata.str1.4
+                0x0801dd34        0x4 ..\obj\usbh_core.o
+ .rodata.str1.4
+                0x0801dd38       0x29 ..\obj\main.o
+                                 0x2d (size before relaxing)
+ *fill*         0x0801dd61        0x3 
+ .rodata.str1.4
+                0x0801dd64       0x3c ..\obj\ff.o
+ .rodata.zeroes.7258
+                0x0801dda0       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0801ddb0       0x42 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ *fill*         0x0801ddf2        0x2 
+ .rodata.blanks.7257
+                0x0801ddf4       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0801de04       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ *fill*         0x0801de14        0x4 
+ .rodata.__mprec_tens
+                0x0801de18       0xc8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x0801de18                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x0801dee0       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+                0x0801dee0                __mprec_bigtens
+ .rodata.p05.6087
+                0x0801df08        0xc c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .rodata.str1.4
+                0x0801df14       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                                 0x12 (size before relaxing)
+ .rodata._ctype_
+                0x0801df24      0x101 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+                0x0801df24                _ctype_
+ *(.glue_7)
+ .glue_7        0x0801e025        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0801e025        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0801e028                . = ALIGN (0x4)
+ *fill*         0x0801e025        0x3 
+                0x0801e028                _etext = .
+                0x0801e028                _exit = .
+
+.vfp11_veneer   0x0801e028        0x0
+ .vfp11_veneer  0x0801e028        0x0 linker stubs
+
+.v4_bx          0x0801e028        0x0
+ .v4_bx         0x0801e028        0x0 linker stubs
+
+.iplt           0x0801e028        0x0
+ .iplt          0x0801e028        0x0 ..\obj\hufftabs.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0801e028        0x8
+                0x0801e028                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0801e028        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                0x0801e030                __exidx_end = .
+
+.rel.dyn        0x0801e030        0x0
+ .rel.iplt      0x0801e030        0x0 ..\obj\hufftabs.o
+
+.preinit_array  0x0801e030        0x0
+                0x0801e030                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x0801e030                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0801e030        0x0
+                0x0801e030                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x0801e030                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0801e030        0x0
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x0801e030                _sidata = .
+
+.data           0x20000000      0xa38 load address 0x0801e030
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x1 ..\obj\usbh_msc_fatfs.o
+ *fill*         0x20000001        0x3 
+ .data          0x20000004        0xc ..\obj\usbh_core.o
+                0x20000004                USBH_DeviceConnStatus_cb
+ .data          0x20000010        0x1 ..\obj\usbh_msc_scsi.o
+ *fill*         0x20000011        0x3 
+ .data          0x20000014       0x14 ..\obj\system_stm32f4xx.o
+                0x20000014                AHBPrescTable
+                0x20000024                SystemCoreClock
+ .data          0x20000028       0x48 ..\obj\usbh_usr.o
+                0x20000028                USR_Callbacks
+ .data          0x20000070       0x10 ..\obj\usbh_msc_core.o
+                0x20000070                USBH_MSC_cb
+ .data          0x20000080       0x10 ..\obj\stm32f4xx_rcc.o
+ *(.data*)
+ .data.impure_data
+                0x20000090      0x428 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x200004b8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+                0x200004b8                _impure_ptr
+ .data.__malloc_av_
+                0x200004bc      0x408 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x200004bc                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x200008c4        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x200008c4                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x200008c8        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x200008c8                __malloc_sbrk_base
+ .data.__global_locale
+                0x200008cc      0x16c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+                0x200008cc                __global_locale
+                0x20000a38                . = ALIGN (0x4)
+                0x20000a38                _edata = .
+
+.igot.plt       0x20000a38        0x0 load address 0x0801ea68
+ .igot.plt      0x20000a38        0x0 ..\obj\hufftabs.o
+                0x20000a38                . = ALIGN (0x4)
+
+.bss            0x20000a38     0xdc30 load address 0x0801ea68
+                0x20000a38                _sbss = .
+                0x20000a38                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000a38       0x15 ..\obj\Audio.o
+ *fill*         0x20000a4d        0x1 
+ .bss           0x20000a4e        0x2 ..\obj\usbh_core.o
+ .bss           0x20000a50     0x4104 ..\obj\main.o
+                0x20004b50                enum_done
+ .bss           0x20004b54        0x2 ..\obj\usbh_msc_core.o
+                0x20004b55                MSCErrorCount
+ *fill*         0x20004b56        0x2 
+ .bss           0x20004b58     0x5d08 ..\obj\buffers.o
+ .bss           0x2000a860        0x4 ..\obj\usb_bsp.o
+                0x2000a860                BSP_delay
+ .bss           0x2000a864        0xd ..\obj\usbh_msc_bot.o
+ *fill*         0x2000a871        0x3 
+ .bss           0x2000a874        0x4 ..\obj\syscalls.o
+ .bss           0x2000a878      0x208 ..\obj\ff.o
+ *(.bss*)
+ .bss.__malloc_max_total_mem
+                0x2000aa80        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x2000aa80                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x2000aa84        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x2000aa84                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x2000aa88        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x2000aa88                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x2000aa8c       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+                0x2000aa8c                __malloc_current_mallinfo
+ *(COMMON)
+ COMMON         0x2000aab4     0x2e78 ..\obj\main.o
+                0x2000aab4                time_var1
+                0x2000aab8                file
+                0x2000aedc                hMP3Decoder
+                0x2000aee0                time_var2
+                0x2000aee4                USB_OTG_Core
+                0x2000b874                file_read_buffer
+                0x2000d874                RCC_Clocks
+                0x2000d884                USB_Host
+                0x2000d908                bytes_left
+                0x2000d90c                read_ptr
+                0x2000d910                mp3FrameInfo
+ COMMON         0x2000d92c      0x410 ..\obj\usbh_msc_scsi.o
+                0x2000d92c                USBH_DataInBuffer
+                0x2000db2c                USBH_MSC_Param
+                0x2000db3c                USBH_DataOutBuffer
+ COMMON         0x2000dd3c      0x898 ..\obj\usbh_usr.o
+                0x2000dd3c                fileR
+                0x2000e160                fno
+                0x2000e180                dir
+                0x2000e1a4                fatfs
+ COMMON         0x2000e5d4       0x54 ..\obj\usbh_msc_core.o
+                0x2000e5d4                MSC_Machine
+                0x2000e620                MSC_Setup
+ COMMON         0x2000e628       0x40 ..\obj\usbh_msc_bot.o
+                0x2000e628                USBH_MSC_CSWData
+                0x2000e638                USBH_MSC_BOTXferParam
+                0x2000e648                USBH_MSC_CBWData
+                0x2000e668                . = ALIGN (0x4)
+                0x2000e668                _ebss = .
+                0x2000e668                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000e668      0x400 load address 0x0802c698
+                0x2000e668                . = ALIGN (0x4)
+                0x2000e668                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x2000e668                . = (. + _Min_Heap_Size)
+                0x2000ea68                . = (. + _Min_Stack_Size)
+ *fill*         0x2000e668      0x400 
+                0x2000ea68                . = ALIGN (0x4)
+LOAD ..\obj\hufftabs.o
+LOAD ..\obj\dqchan.o
+LOAD ..\obj\usb_core.o
+LOAD ..\obj\usbh_hcs.o
+LOAD ..\obj\Audio.o
+LOAD ..\obj\stm32f4xx_hash_sha1.o
+LOAD ..\obj\stm32f4xx_cryp_des.o
+LOAD ..\obj\usbh_msc_fatfs.o
+LOAD ..\obj\polyphase.o
+LOAD ..\obj\usb_hcd.o
+LOAD ..\obj\stm32f4xx_cryp_tdes.o
+LOAD ..\obj\trigtabs_fixpt.o
+LOAD ..\obj\usbh_core.o
+LOAD ..\obj\stm32f4xx_fsmc.o
+LOAD ..\obj\usb_dcd_int.o
+LOAD ..\obj\stm32f4xx_dac.o
+LOAD ..\obj\stm32f4xx_dma.o
+LOAD ..\obj\stm32f4xx_cryp.o
+LOAD ..\obj\stm32f4xx_hash.o
+LOAD ..\obj\subband.o
+LOAD ..\obj\usbh_ioreq.o
+LOAD ..\obj\main.o
+LOAD ..\obj\usbh_msc_scsi.o
+LOAD ..\obj\usbh_stdreq.o
+LOAD ..\obj\stm32f4xx_usart.o
+LOAD ..\obj\usb_hcd_int.o
+LOAD ..\obj\fattime.o
+LOAD ..\obj\stm32f4xx_dcmi.o
+LOAD ..\obj\startup_stm32f4xx.o
+LOAD ..\obj\stm32f4xx_rng.o
+LOAD ..\obj\huffman.o
+LOAD ..\obj\stm32f4xx_exti.o
+LOAD ..\obj\imdct.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\system_stm32f4xx.o
+LOAD ..\obj\stm32f4xx_can.o
+LOAD ..\obj\stm32f4xx_gpio.o
+LOAD ..\obj\usbh_usr.o
+LOAD ..\obj\stm32f4xx_i2c.o
+LOAD ..\obj\dct32.o
+LOAD ..\obj\stm32f4xx_rtc.o
+LOAD ..\obj\bitstream.o
+LOAD ..\obj\stproc.o
+LOAD ..\obj\usbh_msc_core.o
+LOAD ..\obj\stm32f4xx_dbgmcu.o
+LOAD ..\obj\stm32f4xx_adc.o
+LOAD ..\obj\mp3tabs.o
+LOAD ..\obj\stm32f4xx_iwdg.o
+LOAD ..\obj\stm32f4xx_syscfg.o
+LOAD ..\obj\stm32f4xx_rcc.o
+LOAD ..\obj\dequant.o
+LOAD ..\obj\buffers.o
+LOAD ..\obj\stm32f4xx_pwr.o
+LOAD ..\obj\stm32f4xx_tim.o
+LOAD ..\obj\usb_dcd.o
+LOAD ..\obj\usb_bsp.o
+LOAD ..\obj\stm32f4xx_sdio.o
+LOAD ..\obj\stm32f4xx_flash.o
+LOAD ..\obj\stm32f4xx_cryp_aes.o
+LOAD ..\obj\usbh_msc_bot.o
+LOAD ..\obj\ccsbcs.o
+LOAD ..\obj\scalfact.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\stm32f4xx_spi.o
+LOAD ..\obj\usb_otg.o
+LOAD ..\obj\stm32f4xx_it.o
+LOAD ..\obj\ff.o
+LOAD ..\obj\stm32f4xx_crc.o
+LOAD ..\obj\mp3dec.o
+LOAD ..\obj\stm32f4xx_wwdg.o
+LOAD ..\obj\stm32f4xx_hash_md5.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+END GROUP
+OUTPUT(stm32f4_mp3_player.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x3610f
+ .debug_info    0x00000000      0x1d2 ..\obj\hufftabs.o
+ .debug_info    0x000001d2      0x94d ..\obj\dqchan.o
+ .debug_info    0x00000b1f     0x3e01 ..\obj\usb_core.o
+ .debug_info    0x00004920      0xfbd ..\obj\usbh_hcs.o
+ .debug_info    0x000058dd     0x15ad ..\obj\Audio.o
+ .debug_info    0x00006e8a     0x1984 ..\obj\usbh_msc_fatfs.o
+ .debug_info    0x0000880e     0x2be4 ..\obj\polyphase.o
+ .debug_info    0x0000b3f2     0x11f7 ..\obj\usb_hcd.o
+ .debug_info    0x0000c5e9      0x1ce ..\obj\trigtabs_fixpt.o
+ .debug_info    0x0000c7b7     0x1fcf ..\obj\usbh_core.o
+ .debug_info    0x0000e786      0x48b ..\obj\subband.o
+ .debug_info    0x0000ec11     0x1a0c ..\obj\usbh_ioreq.o
+ .debug_info    0x0001061d     0x308b ..\obj\main.o
+ .debug_info    0x000136a8     0x1374 ..\obj\usbh_msc_scsi.o
+ .debug_info    0x00014a1c     0x1e44 ..\obj\usbh_stdreq.o
+ .debug_info    0x00016860      0xb2d ..\obj\stm32f4xx_usart.o
+ .debug_info    0x0001738d     0x2533 ..\obj\usb_hcd_int.o
+ .debug_info    0x000198c0       0xbd ..\obj\fattime.o
+ .debug_info    0x0001997d       0xd7 ..\obj\startup_stm32f4xx.o
+ .debug_info    0x00019a54      0xbfd ..\obj\huffman.o
+ .debug_info    0x0001a651      0x349 ..\obj\stm32f4xx_exti.o
+ .debug_info    0x0001a99a     0x3212 ..\obj\imdct.o
+ .debug_info    0x0001dbac      0x55c ..\obj\misc.o
+ .debug_info    0x0001e108      0x5e6 ..\obj\system_stm32f4xx.o
+ .debug_info    0x0001e6ee      0x7de ..\obj\stm32f4xx_gpio.o
+ .debug_info    0x0001eecc      0xaeb ..\obj\usbh_usr.o
+ .debug_info    0x0001f9b7      0xb10 ..\obj\dct32.o
+ .debug_info    0x000204c7     0x11c5 ..\obj\bitstream.o
+ .debug_info    0x0002168c      0xcb8 ..\obj\stproc.o
+ .debug_info    0x00022344     0x1d82 ..\obj\usbh_msc_core.o
+ .debug_info    0x000240c6      0x1e0 ..\obj\mp3tabs.o
+ .debug_info    0x000242a6      0xd0d ..\obj\stm32f4xx_rcc.o
+ .debug_info    0x00024fb3      0x8c3 ..\obj\dequant.o
+ .debug_info    0x00025876      0x9e4 ..\obj\buffers.o
+ .debug_info    0x0002625a     0x249e ..\obj\stm32f4xx_tim.o
+ .debug_info    0x000286f8     0x1cdc ..\obj\usb_bsp.o
+ .debug_info    0x0002a3d4     0x1d8b ..\obj\usbh_msc_bot.o
+ .debug_info    0x0002c15f      0x1a6 ..\obj\ccsbcs.o
+ .debug_info    0x0002c305      0xbe3 ..\obj\scalfact.o
+ .debug_info    0x0002cee8      0xe08 ..\obj\syscalls.o
+ .debug_info    0x0002dcf0      0xee0 ..\obj\stm32f4xx_it.o
+ .debug_info    0x0002ebd0     0x694f ..\obj\ff.o
+ .debug_info    0x0003551f      0xbf0 ..\obj\mp3dec.o
+
+.debug_abbrev   0x00000000     0x608a
+ .debug_abbrev  0x00000000       0xad ..\obj\hufftabs.o
+ .debug_abbrev  0x000000ad      0x22d ..\obj\dqchan.o
+ .debug_abbrev  0x000002da      0x4a6 ..\obj\usb_core.o
+ .debug_abbrev  0x00000780      0x231 ..\obj\usbh_hcs.o
+ .debug_abbrev  0x000009b1      0x359 ..\obj\Audio.o
+ .debug_abbrev  0x00000d0a      0x25f ..\obj\usbh_msc_fatfs.o
+ .debug_abbrev  0x00000f69      0x20d ..\obj\polyphase.o
+ .debug_abbrev  0x00001176      0x206 ..\obj\usb_hcd.o
+ .debug_abbrev  0x0000137c       0x68 ..\obj\trigtabs_fixpt.o
+ .debug_abbrev  0x000013e4      0x3a3 ..\obj\usbh_core.o
+ .debug_abbrev  0x00001787      0x148 ..\obj\subband.o
+ .debug_abbrev  0x000018cf      0x263 ..\obj\usbh_ioreq.o
+ .debug_abbrev  0x00001b32      0x4bd ..\obj\main.o
+ .debug_abbrev  0x00001fef      0x24b ..\obj\usbh_msc_scsi.o
+ .debug_abbrev  0x0000223a      0x370 ..\obj\usbh_stdreq.o
+ .debug_abbrev  0x000025aa      0x1d7 ..\obj\stm32f4xx_usart.o
+ .debug_abbrev  0x00002781      0x2ca ..\obj\usb_hcd_int.o
+ .debug_abbrev  0x00002a4b       0x67 ..\obj\fattime.o
+ .debug_abbrev  0x00002ab2       0x12 ..\obj\startup_stm32f4xx.o
+ .debug_abbrev  0x00002ac4      0x251 ..\obj\huffman.o
+ .debug_abbrev  0x00002d15      0x1d9 ..\obj\stm32f4xx_exti.o
+ .debug_abbrev  0x00002eee      0x350 ..\obj\imdct.o
+ .debug_abbrev  0x0000323e      0x156 ..\obj\misc.o
+ .debug_abbrev  0x00003394      0x15f ..\obj\system_stm32f4xx.o
+ .debug_abbrev  0x000034f3      0x1f3 ..\obj\stm32f4xx_gpio.o
+ .debug_abbrev  0x000036e6      0x28c ..\obj\usbh_usr.o
+ .debug_abbrev  0x00003972      0x13d ..\obj\dct32.o
+ .debug_abbrev  0x00003aaf      0x290 ..\obj\bitstream.o
+ .debug_abbrev  0x00003d3f      0x20e ..\obj\stproc.o
+ .debug_abbrev  0x00003f4d      0x384 ..\obj\usbh_msc_core.o
+ .debug_abbrev  0x000042d1       0x79 ..\obj\mp3tabs.o
+ .debug_abbrev  0x0000434a      0x297 ..\obj\stm32f4xx_rcc.o
+ .debug_abbrev  0x000045e1      0x1e0 ..\obj\dequant.o
+ .debug_abbrev  0x000047c1      0x1d1 ..\obj\buffers.o
+ .debug_abbrev  0x00004992      0x286 ..\obj\stm32f4xx_tim.o
+ .debug_abbrev  0x00004c18      0x348 ..\obj\usb_bsp.o
+ .debug_abbrev  0x00004f60      0x2f4 ..\obj\usbh_msc_bot.o
+ .debug_abbrev  0x00005254       0xbe ..\obj\ccsbcs.o
+ .debug_abbrev  0x00005312      0x1ed ..\obj\scalfact.o
+ .debug_abbrev  0x000054ff      0x293 ..\obj\syscalls.o
+ .debug_abbrev  0x00005792      0x1ff ..\obj\stm32f4xx_it.o
+ .debug_abbrev  0x00005991      0x3ea ..\obj\ff.o
+ .debug_abbrev  0x00005d7b      0x30f ..\obj\mp3dec.o
+
+.debug_aranges  0x00000000      0x558
+ .debug_aranges
+                0x00000000       0x18 ..\obj\hufftabs.o
+ .debug_aranges
+                0x00000018       0x20 ..\obj\dqchan.o
+ .debug_aranges
+                0x00000038       0x20 ..\obj\usb_core.o
+ .debug_aranges
+                0x00000058       0x20 ..\obj\usbh_hcs.o
+ .debug_aranges
+                0x00000078       0x20 ..\obj\Audio.o
+ .debug_aranges
+                0x00000098       0x20 ..\obj\usbh_msc_fatfs.o
+ .debug_aranges
+                0x000000b8       0x20 ..\obj\polyphase.o
+ .debug_aranges
+                0x000000d8       0x20 ..\obj\usb_hcd.o
+ .debug_aranges
+                0x000000f8       0x18 ..\obj\trigtabs_fixpt.o
+ .debug_aranges
+                0x00000110       0x20 ..\obj\usbh_core.o
+ .debug_aranges
+                0x00000130       0x20 ..\obj\subband.o
+ .debug_aranges
+                0x00000150       0x20 ..\obj\usbh_ioreq.o
+ .debug_aranges
+                0x00000170       0x28 ..\obj\main.o
+ .debug_aranges
+                0x00000198       0x20 ..\obj\usbh_msc_scsi.o
+ .debug_aranges
+                0x000001b8       0x20 ..\obj\usbh_stdreq.o
+ .debug_aranges
+                0x000001d8       0x20 ..\obj\stm32f4xx_usart.o
+ .debug_aranges
+                0x000001f8       0x20 ..\obj\usb_hcd_int.o
+ .debug_aranges
+                0x00000218       0x20 ..\obj\fattime.o
+ .debug_aranges
+                0x00000238       0x28 ..\obj\startup_stm32f4xx.o
+ .debug_aranges
+                0x00000260       0x20 ..\obj\huffman.o
+ .debug_aranges
+                0x00000280       0x20 ..\obj\stm32f4xx_exti.o
+ .debug_aranges
+                0x000002a0       0x20 ..\obj\imdct.o
+ .debug_aranges
+                0x000002c0       0x20 ..\obj\misc.o
+ .debug_aranges
+                0x000002e0       0x20 ..\obj\system_stm32f4xx.o
+ .debug_aranges
+                0x00000300       0x20 ..\obj\stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000320       0x20 ..\obj\usbh_usr.o
+ .debug_aranges
+                0x00000340       0x20 ..\obj\dct32.o
+ .debug_aranges
+                0x00000360       0x20 ..\obj\bitstream.o
+ .debug_aranges
+                0x00000380       0x20 ..\obj\stproc.o
+ .debug_aranges
+                0x000003a0       0x20 ..\obj\usbh_msc_core.o
+ .debug_aranges
+                0x000003c0       0x18 ..\obj\mp3tabs.o
+ .debug_aranges
+                0x000003d8       0x20 ..\obj\stm32f4xx_rcc.o
+ .debug_aranges
+                0x000003f8       0x20 ..\obj\dequant.o
+ .debug_aranges
+                0x00000418       0x20 ..\obj\buffers.o
+ .debug_aranges
+                0x00000438       0x20 ..\obj\stm32f4xx_tim.o
+ .debug_aranges
+                0x00000458       0x20 ..\obj\usb_bsp.o
+ .debug_aranges
+                0x00000478       0x20 ..\obj\usbh_msc_bot.o
+ .debug_aranges
+                0x00000498       0x20 ..\obj\ccsbcs.o
+ .debug_aranges
+                0x000004b8       0x20 ..\obj\scalfact.o
+ .debug_aranges
+                0x000004d8       0x20 ..\obj\syscalls.o
+ .debug_aranges
+                0x000004f8       0x20 ..\obj\stm32f4xx_it.o
+ .debug_aranges
+                0x00000518       0x20 ..\obj\ff.o
+ .debug_aranges
+                0x00000538       0x20 ..\obj\mp3dec.o
+
+.debug_line     0x00000000     0xd686
+ .debug_line    0x00000000       0x84 ..\obj\hufftabs.o
+ .debug_line    0x00000084      0x2a8 ..\obj\dqchan.o
+ .debug_line    0x0000032c      0xb57 ..\obj\usb_core.o
+ .debug_line    0x00000e83      0x2e0 ..\obj\usbh_hcs.o
+ .debug_line    0x00001163      0x5c5 ..\obj\Audio.o
+ .debug_line    0x00001728      0x3fa ..\obj\usbh_msc_fatfs.o
+ .debug_line    0x00001b22      0x822 ..\obj\polyphase.o
+ .debug_line    0x00002344      0x297 ..\obj\usb_hcd.o
+ .debug_line    0x000025db       0x7f ..\obj\trigtabs_fixpt.o
+ .debug_line    0x0000265a      0x504 ..\obj\usbh_core.o
+ .debug_line    0x00002b5e      0x18e ..\obj\subband.o
+ .debug_line    0x00002cec      0x344 ..\obj\usbh_ioreq.o
+ .debug_line    0x00003030      0x784 ..\obj\main.o
+ .debug_line    0x000037b4      0x4a6 ..\obj\usbh_msc_scsi.o
+ .debug_line    0x00003c5a      0x43e ..\obj\usbh_stdreq.o
+ .debug_line    0x00004098      0x433 ..\obj\stm32f4xx_usart.o
+ .debug_line    0x000044cb      0x40f ..\obj\usb_hcd_int.o
+ .debug_line    0x000048da      0x208 ..\obj\fattime.o
+ .debug_line    0x00004ae2       0xb3 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x00004b95      0x341 ..\obj\huffman.o
+ .debug_line    0x00004ed6      0x2cd ..\obj\stm32f4xx_exti.o
+ .debug_line    0x000051a3     0x19b5 ..\obj\imdct.o
+ .debug_line    0x00006b58      0x2a4 ..\obj\misc.o
+ .debug_line    0x00006dfc      0x264 ..\obj\system_stm32f4xx.o
+ .debug_line    0x00007060      0x370 ..\obj\stm32f4xx_gpio.o
+ .debug_line    0x000073d0      0x3cb ..\obj\usbh_usr.o
+ .debug_line    0x0000779b      0x6f3 ..\obj\dct32.o
+ .debug_line    0x00007e8e      0x6b2 ..\obj\bitstream.o
+ .debug_line    0x00008540      0x602 ..\obj\stproc.o
+ .debug_line    0x00008b42      0x476 ..\obj\usbh_msc_core.o
+ .debug_line    0x00008fb8       0xcf ..\obj\mp3tabs.o
+ .debug_line    0x00009087      0x3ea ..\obj\stm32f4xx_rcc.o
+ .debug_line    0x00009471      0x1d0 ..\obj\dequant.o
+ .debug_line    0x00009641      0x116 ..\obj\buffers.o
+ .debug_line    0x00009757      0x831 ..\obj\stm32f4xx_tim.o
+ .debug_line    0x00009f88      0x3f6 ..\obj\usb_bsp.o
+ .debug_line    0x0000a37e      0x4b7 ..\obj\usbh_msc_bot.o
+ .debug_line    0x0000a835      0x241 ..\obj\ccsbcs.o
+ .debug_line    0x0000aa76      0x25a ..\obj\scalfact.o
+ .debug_line    0x0000acd0      0x334 ..\obj\syscalls.o
+ .debug_line    0x0000b004      0x302 ..\obj\stm32f4xx_it.o
+ .debug_line    0x0000b306     0x206b ..\obj\ff.o
+ .debug_line    0x0000d371      0x315 ..\obj\mp3dec.o
+
+.debug_str      0x00000000     0x7f6d
+ .debug_str     0x00000000      0x263 ..\obj\hufftabs.o
+                                0x2b6 (size before relaxing)
+ .debug_str     0x00000263      0x309 ..\obj\dqchan.o
+                                0x4b8 (size before relaxing)
+ .debug_str     0x0000056c     0x183d ..\obj\usb_core.o
+                               0x1db6 (size before relaxing)
+ .debug_str     0x00001da9      0x15f ..\obj\usbh_hcs.o
+                                0xc3a (size before relaxing)
+ .debug_str     0x00001f08      0xb71 ..\obj\Audio.o
+                                0xd62 (size before relaxing)
+ .debug_str     0x00002a79      0xaa1 ..\obj\usbh_msc_fatfs.o
+                               0x165d (size before relaxing)
+ .debug_str     0x0000351a       0xf7 ..\obj\polyphase.o
+                                0x24f (size before relaxing)
+ .debug_str     0x00003611       0xec ..\obj\usb_hcd.o
+                                0xd79 (size before relaxing)
+ .debug_str     0x000036fd       0xf1 ..\obj\trigtabs_fixpt.o
+                                0x23f (size before relaxing)
+ .debug_str     0x000037ee      0x1ca ..\obj\usbh_core.o
+                               0x172a (size before relaxing)
+ .debug_str     0x000039b8      0x1d7 ..\obj\subband.o
+                                0x3e6 (size before relaxing)
+ .debug_str     0x00003b8f       0xde ..\obj\usbh_ioreq.o
+                               0x1570 (size before relaxing)
+ .debug_str     0x00003c6d      0x74a ..\obj\main.o
+                               0x248c (size before relaxing)
+ .debug_str     0x000043b7      0x408 ..\obj\usbh_msc_scsi.o
+                                0xfec (size before relaxing)
+ .debug_str     0x000047bf      0x1c7 ..\obj\usbh_stdreq.o
+                               0x1659 (size before relaxing)
+ .debug_str     0x00004986      0x490 ..\obj\stm32f4xx_usart.o
+                                0x727 (size before relaxing)
+ .debug_str     0x00004e16      0x296 ..\obj\usb_hcd_int.o
+                               0x1386 (size before relaxing)
+ .debug_str     0x000050ac       0x64 ..\obj\fattime.o
+                                0x1d8 (size before relaxing)
+ .debug_str     0x00005110      0x185 ..\obj\huffman.o
+                                0x700 (size before relaxing)
+ .debug_str     0x00005295      0x1e3 ..\obj\stm32f4xx_exti.o
+                                0x3a2 (size before relaxing)
+ .debug_str     0x00005478      0x1c7 ..\obj\imdct.o
+                                0x699 (size before relaxing)
+ .debug_str     0x0000563f      0x195 ..\obj\misc.o
+                                0x426 (size before relaxing)
+ .debug_str     0x000057d4       0xeb ..\obj\system_stm32f4xx.o
+                                0x3f6 (size before relaxing)
+ .debug_str     0x000058bf      0x19b ..\obj\stm32f4xx_gpio.o
+                                0x512 (size before relaxing)
+ .debug_str     0x00005a5a      0x14f ..\obj\usbh_usr.o
+                                0x938 (size before relaxing)
+ .debug_str     0x00005ba9       0x6b ..\obj\dct32.o
+                                0x1eb (size before relaxing)
+ .debug_str     0x00005c14      0x1d8 ..\obj\bitstream.o
+                                0x615 (size before relaxing)
+ .debug_str     0x00005dec       0xde ..\obj\stproc.o
+                                0x403 (size before relaxing)
+ .debug_str     0x00005eca      0x19d ..\obj\usbh_msc_core.o
+                               0x1901 (size before relaxing)
+ .debug_str     0x00006067       0x6c ..\obj\mp3tabs.o
+                                0x257 (size before relaxing)
+ .debug_str     0x000060d3      0x499 ..\obj\stm32f4xx_rcc.o
+                                0x8a8 (size before relaxing)
+ .debug_str     0x0000656c       0x7a ..\obj\dequant.o
+                                0x5f7 (size before relaxing)
+ .debug_str     0x000065e6       0xcb ..\obj\buffers.o
+                                0x652 (size before relaxing)
+ .debug_str     0x000066b1      0xb72 ..\obj\stm32f4xx_tim.o
+                                0xe3b (size before relaxing)
+ .debug_str     0x00007223       0xe9 ..\obj\usb_bsp.o
+                               0x15f3 (size before relaxing)
+ .debug_str     0x0000730c       0xee ..\obj\usbh_msc_bot.o
+                               0x185f (size before relaxing)
+ .debug_str     0x000073fa       0x89 ..\obj\ccsbcs.o
+                                0x207 (size before relaxing)
+ .debug_str     0x00007483       0xda ..\obj\scalfact.o
+                                0x613 (size before relaxing)
+ .debug_str     0x0000755d      0x4f4 ..\obj\syscalls.o
+                                0x831 (size before relaxing)
+ .debug_str     0x00007a51      0x107 ..\obj\stm32f4xx_it.o
+                                0xc91 (size before relaxing)
+ .debug_str     0x00007b58      0x30c ..\obj\ff.o
+                                0x848 (size before relaxing)
+ .debug_str     0x00007e64      0x109 ..\obj\mp3dec.o
+                                0x6aa (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ..\obj\hufftabs.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ..\obj\dqchan.o
+ .comment       0x0000006e       0x6f ..\obj\usb_core.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_hcs.o
+ .comment       0x0000006e       0x6f ..\obj\Audio.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_msc_fatfs.o
+ .comment       0x0000006e       0x6f ..\obj\polyphase.o
+ .comment       0x0000006e       0x6f ..\obj\usb_hcd.o
+ .comment       0x0000006e       0x6f ..\obj\trigtabs_fixpt.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_core.o
+ .comment       0x0000006e       0x6f ..\obj\subband.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_ioreq.o
+ .comment       0x0000006e       0x6f ..\obj\main.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_msc_scsi.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_stdreq.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_usart.o
+ .comment       0x0000006e       0x6f ..\obj\usb_hcd_int.o
+ .comment       0x0000006e       0x6f ..\obj\fattime.o
+ .comment       0x0000006e       0x6f ..\obj\huffman.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_exti.o
+ .comment       0x0000006e       0x6f ..\obj\imdct.o
+ .comment       0x0000006e       0x6f ..\obj\misc.o
+ .comment       0x0000006e       0x6f ..\obj\system_stm32f4xx.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_gpio.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_usr.o
+ .comment       0x0000006e       0x6f ..\obj\dct32.o
+ .comment       0x0000006e       0x6f ..\obj\bitstream.o
+ .comment       0x0000006e       0x6f ..\obj\stproc.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_msc_core.o
+ .comment       0x0000006e       0x6f ..\obj\mp3tabs.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_rcc.o
+ .comment       0x0000006e       0x6f ..\obj\dequant.o
+ .comment       0x0000006e       0x6f ..\obj\buffers.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_tim.o
+ .comment       0x0000006e       0x6f ..\obj\usb_bsp.o
+ .comment       0x0000006e       0x6f ..\obj\usbh_msc_bot.o
+ .comment       0x0000006e       0x6f ..\obj\ccsbcs.o
+ .comment       0x0000006e       0x6f ..\obj\scalfact.o
+ .comment       0x0000006e       0x6f ..\obj\syscalls.o
+ .comment       0x0000006e       0x6f ..\obj\stm32f4xx_it.o
+ .comment       0x0000006e       0x6f ..\obj\ff.o
+ .comment       0x0000006e       0x6f ..\obj\mp3dec.o
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x39 ..\obj\hufftabs.o
+ .ARM.attributes
+                0x00000039       0x39 ..\obj\dqchan.o
+ .ARM.attributes
+                0x00000072       0x39 ..\obj\usb_core.o
+ .ARM.attributes
+                0x000000ab       0x39 ..\obj\usbh_hcs.o
+ .ARM.attributes
+                0x000000e4       0x39 ..\obj\Audio.o
+ .ARM.attributes
+                0x0000011d       0x39 ..\obj\usbh_msc_fatfs.o
+ .ARM.attributes
+                0x00000156       0x39 ..\obj\polyphase.o
+ .ARM.attributes
+                0x0000018f       0x39 ..\obj\usb_hcd.o
+ .ARM.attributes
+                0x000001c8       0x39 ..\obj\trigtabs_fixpt.o
+ .ARM.attributes
+                0x00000201       0x39 ..\obj\usbh_core.o
+ .ARM.attributes
+                0x0000023a       0x39 ..\obj\subband.o
+ .ARM.attributes
+                0x00000273       0x39 ..\obj\usbh_ioreq.o
+ .ARM.attributes
+                0x000002ac       0x39 ..\obj\main.o
+ .ARM.attributes
+                0x000002e5       0x39 ..\obj\usbh_msc_scsi.o
+ .ARM.attributes
+                0x0000031e       0x39 ..\obj\usbh_stdreq.o
+ .ARM.attributes
+                0x00000357       0x39 ..\obj\stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000390       0x39 ..\obj\usb_hcd_int.o
+ .ARM.attributes
+                0x000003c9       0x39 ..\obj\fattime.o
+ .ARM.attributes
+                0x00000402       0x21 ..\obj\startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000423       0x39 ..\obj\huffman.o
+ .ARM.attributes
+                0x0000045c       0x39 ..\obj\stm32f4xx_exti.o
+ .ARM.attributes
+                0x00000495       0x39 ..\obj\imdct.o
+ .ARM.attributes
+                0x000004ce       0x39 ..\obj\misc.o
+ .ARM.attributes
+                0x00000507       0x39 ..\obj\system_stm32f4xx.o
+ .ARM.attributes
+                0x00000540       0x39 ..\obj\stm32f4xx_gpio.o
+ .ARM.attributes
+                0x00000579       0x39 ..\obj\usbh_usr.o
+ .ARM.attributes
+                0x000005b2       0x39 ..\obj\dct32.o
+ .ARM.attributes
+                0x000005eb       0x39 ..\obj\bitstream.o
+ .ARM.attributes
+                0x00000624       0x39 ..\obj\stproc.o
+ .ARM.attributes
+                0x0000065d       0x39 ..\obj\usbh_msc_core.o
+ .ARM.attributes
+                0x00000696       0x39 ..\obj\mp3tabs.o
+ .ARM.attributes
+                0x000006cf       0x39 ..\obj\stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000708       0x39 ..\obj\dequant.o
+ .ARM.attributes
+                0x00000741       0x39 ..\obj\buffers.o
+ .ARM.attributes
+                0x0000077a       0x39 ..\obj\stm32f4xx_tim.o
+ .ARM.attributes
+                0x000007b3       0x39 ..\obj\usb_bsp.o
+ .ARM.attributes
+                0x000007ec       0x39 ..\obj\usbh_msc_bot.o
+ .ARM.attributes
+                0x00000825       0x39 ..\obj\ccsbcs.o
+ .ARM.attributes
+                0x0000085e       0x39 ..\obj\scalfact.o
+ .ARM.attributes
+                0x00000897       0x39 ..\obj\syscalls.o
+ .ARM.attributes
+                0x000008d0       0x39 ..\obj\stm32f4xx_it.o
+ .ARM.attributes
+                0x00000909       0x39 ..\obj\ff.o
+ .ARM.attributes
+                0x00000942       0x39 ..\obj\mp3dec.o
+ .ARM.attributes
+                0x0000097b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000009af       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000009cf       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000a03       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a37       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000a6b       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000a8b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000abf       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+ .ARM.attributes
+                0x00000af3       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000b27       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000b5b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000b8f       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000bc3       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000bf7       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000c17       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000c4b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000c7f       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000cb3       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000cd3       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000d07       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000d3b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000d6f       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000da3       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000dd7       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000e0b       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000e3f       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000e73       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000e95       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000eb7       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000ed9       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000efb       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000f1d       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000f3f       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000f73       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+
+.debug_loc      0x00000000    0x31563
+ .debug_loc     0x00000000      0x98c ..\obj\dqchan.o
+ .debug_loc     0x0000098c     0x26f3 ..\obj\usb_core.o
+ .debug_loc     0x0000307f      0x328 ..\obj\usbh_hcs.o
+ .debug_loc     0x000033a7      0x4ed ..\obj\Audio.o
+ .debug_loc     0x00003894      0x318 ..\obj\usbh_msc_fatfs.o
+ .debug_loc     0x00003bac     0x2ea1 ..\obj\polyphase.o
+ .debug_loc     0x00006a4d      0x2d5 ..\obj\usb_hcd.o
+ .debug_loc     0x00006d22      0xc94 ..\obj\usbh_core.o
+ .debug_loc     0x000079b6      0x175 ..\obj\subband.o
+ .debug_loc     0x00007b2b      0x544 ..\obj\usbh_ioreq.o
+ .debug_loc     0x0000806f      0x5a1 ..\obj\main.o
+ .debug_loc     0x00008610      0x416 ..\obj\usbh_msc_scsi.o
+ .debug_loc     0x00008a26      0x7bd ..\obj\usbh_stdreq.o
+ .debug_loc     0x000091e3      0x8e7 ..\obj\stm32f4xx_usart.o
+ .debug_loc     0x00009aca      0xb24 ..\obj\usb_hcd_int.o
+ .debug_loc     0x0000a5ee     0x14b4 ..\obj\huffman.o
+ .debug_loc     0x0000baa2      0x1dc ..\obj\stm32f4xx_exti.o
+ .debug_loc     0x0000bc7e     0x6973 ..\obj\imdct.o
+ .debug_loc     0x000125f1      0x186 ..\obj\misc.o
+ .debug_loc     0x00012777      0x13b ..\obj\system_stm32f4xx.o
+ .debug_loc     0x000128b2      0x3a0 ..\obj\stm32f4xx_gpio.o
+ .debug_loc     0x00012c52     0x228b ..\obj\dct32.o
+ .debug_loc     0x00014edd     0x764b ..\obj\bitstream.o
+ .debug_loc     0x0001c528     0x17d3 ..\obj\stproc.o
+ .debug_loc     0x0001dcfb      0x39b ..\obj\usbh_msc_core.o
+ .debug_loc     0x0001e096      0xb54 ..\obj\stm32f4xx_rcc.o
+ .debug_loc     0x0001ebea      0x28e ..\obj\dequant.o
+ .debug_loc     0x0001ee78     0x2055 ..\obj\stm32f4xx_tim.o
+ .debug_loc     0x00020ecd      0x1d8 ..\obj\usb_bsp.o
+ .debug_loc     0x000210a5      0x604 ..\obj\usbh_msc_bot.o
+ .debug_loc     0x000216a9      0x170 ..\obj\ccsbcs.o
+ .debug_loc     0x00021819     0x1627 ..\obj\scalfact.o
+ .debug_loc     0x00022e40      0x1dd ..\obj\syscalls.o
+ .debug_loc     0x0002301d     0xdb77 ..\obj\ff.o
+ .debug_loc     0x00030b94      0x9cf ..\obj\mp3dec.o
+
+.debug_ranges   0x00000000     0x44e0
+ .debug_ranges  0x00000000       0x18 ..\obj\dqchan.o
+ .debug_ranges  0x00000018      0x240 ..\obj\usb_core.o
+ .debug_ranges  0x00000258       0x20 ..\obj\usbh_hcs.o
+ .debug_ranges  0x00000278      0x1e0 ..\obj\Audio.o
+ .debug_ranges  0x00000458      0x2e0 ..\obj\polyphase.o
+ .debug_ranges  0x00000738       0x40 ..\obj\usbh_core.o
+ .debug_ranges  0x00000778       0x20 ..\obj\usbh_ioreq.o
+ .debug_ranges  0x00000798      0x128 ..\obj\main.o
+ .debug_ranges  0x000008c0       0xc0 ..\obj\usbh_stdreq.o
+ .debug_ranges  0x00000980       0x20 ..\obj\startup_stm32f4xx.o
+ .debug_ranges  0x000009a0       0xa8 ..\obj\huffman.o
+ .debug_ranges  0x00000a48     0x1698 ..\obj\imdct.o
+ .debug_ranges  0x000020e0       0x18 ..\obj\system_stm32f4xx.o
+ .debug_ranges  0x000020f8       0x18 ..\obj\usbh_usr.o
+ .debug_ranges  0x00002110      0x670 ..\obj\dct32.o
+ .debug_ranges  0x00002780      0x928 ..\obj\bitstream.o
+ .debug_ranges  0x000030a8      0x138 ..\obj\stproc.o
+ .debug_ranges  0x000031e0       0x68 ..\obj\usbh_msc_core.o
+ .debug_ranges  0x00003248       0x20 ..\obj\stm32f4xx_rcc.o
+ .debug_ranges  0x00003268       0xa8 ..\obj\stm32f4xx_tim.o
+ .debug_ranges  0x00003310       0x90 ..\obj\usb_bsp.o
+ .debug_ranges  0x000033a0       0x28 ..\obj\usbh_msc_bot.o
+ .debug_ranges  0x000033c8       0x80 ..\obj\scalfact.o
+ .debug_ranges  0x00003448     0x1050 ..\obj\ff.o
+ .debug_ranges  0x00004498       0x48 ..\obj\mp3dec.o
+
+.debug_frame    0x00000000     0x3984
+ .debug_frame   0x00000000       0x78 ..\obj\dqchan.o
+ .debug_frame   0x00000078      0x498 ..\obj\usb_core.o
+ .debug_frame   0x00000510       0x7c ..\obj\usbh_hcs.o
+ .debug_frame   0x0000058c      0x130 ..\obj\Audio.o
+ .debug_frame   0x000006bc       0x88 ..\obj\usbh_msc_fatfs.o
+ .debug_frame   0x00000744       0x70 ..\obj\polyphase.o
+ .debug_frame   0x000007b4       0xd4 ..\obj\usb_hcd.o
+ .debug_frame   0x00000888       0xdc ..\obj\usbh_core.o
+ .debug_frame   0x00000964       0x4c ..\obj\subband.o
+ .debug_frame   0x000009b0      0x110 ..\obj\usbh_ioreq.o
+ .debug_frame   0x00000ac0      0x114 ..\obj\main.o
+ .debug_frame   0x00000bd4       0xec ..\obj\usbh_msc_scsi.o
+ .debug_frame   0x00000cc0       0xec ..\obj\usbh_stdreq.o
+ .debug_frame   0x00000dac      0x264 ..\obj\stm32f4xx_usart.o
+ .debug_frame   0x00001010      0x1ac ..\obj\usb_hcd_int.o
+ .debug_frame   0x000011bc       0x20 ..\obj\fattime.o
+ .debug_frame   0x000011dc       0x48 ..\obj\huffman.o
+ .debug_frame   0x00001224       0xb4 ..\obj\stm32f4xx_exti.o
+ .debug_frame   0x000012d8       0xa4 ..\obj\imdct.o
+ .debug_frame   0x0000137c       0x74 ..\obj\misc.o
+ .debug_frame   0x000013f0       0x3c ..\obj\system_stm32f4xx.o
+ .debug_frame   0x0000142c      0x164 ..\obj\stm32f4xx_gpio.o
+ .debug_frame   0x00001590      0x150 ..\obj\usbh_usr.o
+ .debug_frame   0x000016e0       0x40 ..\obj\dct32.o
+ .debug_frame   0x00001720       0xf0 ..\obj\bitstream.o
+ .debug_frame   0x00001810       0xa8 ..\obj\stproc.o
+ .debug_frame   0x000018b8       0xa0 ..\obj\usbh_msc_core.o
+ .debug_frame   0x00001958      0x2f0 ..\obj\stm32f4xx_rcc.o
+ .debug_frame   0x00001c48       0x64 ..\obj\dequant.o
+ .debug_frame   0x00001cac       0x44 ..\obj\buffers.o
+ .debug_frame   0x00001cf0      0x6f8 ..\obj\stm32f4xx_tim.o
+ .debug_frame   0x000023e8       0xf4 ..\obj\usb_bsp.o
+ .debug_frame   0x000024dc       0x88 ..\obj\usbh_msc_bot.o
+ .debug_frame   0x00002564       0x40 ..\obj\ccsbcs.o
+ .debug_frame   0x000025a4       0x44 ..\obj\scalfact.o
+ .debug_frame   0x000025e8       0x9c ..\obj\syscalls.o
+ .debug_frame   0x00002684       0xe0 ..\obj\stm32f4xx_it.o
+ .debug_frame   0x00002764      0x80c ..\obj\ff.o
+ .debug_frame   0x00002f70       0xec ..\obj\mp3dec.o
+ .debug_frame   0x0000305c       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-init.o)
+ .debug_frame   0x00003088       0x30 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memmove.o)
+ .debug_frame   0x000030b8       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-memset.o)
+ .debug_frame   0x000030ec       0x84 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-sprintf.o)
+ .debug_frame   0x00003170       0x68 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strcmp.o)
+ .debug_frame   0x000031d8       0x54 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strncmp.o)
+ .debug_frame   0x0000322c       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strrchr.o)
+ .debug_frame   0x00003260       0x44 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfprintf.o)
+ .debug_frame   0x000032a4       0x88 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-dtoa.o)
+ .debug_frame   0x0000332c       0x40 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-localeconv.o)
+ .debug_frame   0x0000336c       0x58 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x000033c4       0x30 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mlock.o)
+ .debug_frame   0x000033f4      0x264 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mprec.o)
+ .debug_frame   0x00003658       0x4c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-strchr.o)
+ .debug_frame   0x000036a4       0x78 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000371c       0x28 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-callocr.o)
+ .debug_frame   0x00003744       0x74 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-freer.o)
+ .debug_frame   0x000037b8       0x84 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-locale.o)
+ .debug_frame   0x0000383c       0x4c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00003888       0x60 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-reallocr.o)
+ .debug_frame   0x000038e8       0x3c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libg.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00003924       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00003950       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
